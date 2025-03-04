@@ -29,3 +29,7 @@ The main analysis is done in the following jupyter notebook:
 
 
 - [sourcecomparing.ipynb](sourcecomparing.ipynb): This notebook performs three key tasks. Firstly, it combines the JSON data from individual text versions generated in the previous section. Secondly, it identifies differences between the N1904 base text and the other source texts. Finally, it generates a downloadable table that displays, for each verse and source text, the insertion of punctuation marks from other texts into the N1904 text. In cases of textual differences, the variations are displayed below the verse in gray.
+
+## Results
+
+The resulting table is downloadable and the file is found [here](John_versions.html).
