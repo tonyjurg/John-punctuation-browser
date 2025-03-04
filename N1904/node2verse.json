@@ -1,0 +1,5276 @@
+[
+  {
+    "location": "John 1:1",
+    "tag": "43001001",
+    "start": 1,
+    "end": 17
+  },
+  {
+    "location": "John 1:2",
+    "tag": "43001002",
+    "start": 18,
+    "end": 24
+  },
+  {
+    "location": "John 1:3",
+    "tag": "43001003",
+    "start": 25,
+    "end": 36
+  },
+  {
+    "location": "John 1:4",
+    "tag": "43001004",
+    "start": 37,
+    "end": 48
+  },
+  {
+    "location": "John 1:5",
+    "tag": "43001005",
+    "start": 49,
+    "end": 61
+  },
+  {
+    "location": "John 1:6",
+    "tag": "43001006",
+    "start": 62,
+    "end": 69
+  },
+  {
+    "location": "John 1:7",
+    "tag": "43001007",
+    "start": 70,
+    "end": 83
+  },
+  {
+    "location": "John 1:8",
+    "tag": "43001008",
+    "start": 84,
+    "end": 94
+  },
+  {
+    "location": "John 1:9",
+    "tag": "43001009",
+    "start": 95,
+    "end": 107
+  },
+  {
+    "location": "John 1:10",
+    "tag": "43001010",
+    "start": 108,
+    "end": 123
+  },
+  {
+    "location": "John 1:11",
+    "tag": "43001011",
+    "start": 124,
+    "end": 133
+  },
+  {
+    "location": "John 1:12",
+    "tag": "43001012",
+    "start": 134,
+    "end": 149
+  },
+  {
+    "location": "John 1:13",
+    "tag": "43001013",
+    "start": 150,
+    "end": 165
+  },
+  {
+    "location": "John 1:14",
+    "tag": "43001014",
+    "start": 166,
+    "end": 188
+  },
+  {
+    "location": "John 1:15",
+    "tag": "43001015",
+    "start": 189,
+    "end": 210
+  },
+  {
+    "location": "John 1:16",
+    "tag": "43001016",
+    "start": 211,
+    "end": 222
+  },
+  {
+    "location": "John 1:17",
+    "tag": "43001017",
+    "start": 223,
+    "end": 237
+  },
+  {
+    "location": "John 1:18",
+    "tag": "43001018",
+    "start": 238,
+    "end": 252
+  },
+  {
+    "location": "John 1:19",
+    "tag": "43001019",
+    "start": 253,
+    "end": 276
+  },
+  {
+    "location": "John 1:20",
+    "tag": "43001020",
+    "start": 277,
+    "end": 289
+  },
+  {
+    "location": "John 1:21",
+    "tag": "43001021",
+    "start": 290,
+    "end": 308
+  },
+  {
+    "location": "John 1:22",
+    "tag": "43001022",
+    "start": 309,
+    "end": 323
+  },
+  {
+    "location": "John 1:23",
+    "tag": "43001023",
+    "start": 324,
+    "end": 339
+  },
+  {
+    "location": "John 1:24",
+    "tag": "43001024",
+    "start": 340,
+    "end": 345
+  },
+  {
+    "location": "John 1:25",
+    "tag": "43001025",
+    "start": 346,
+    "end": 365
+  },
+  {
+    "location": "John 1:26",
+    "tag": "43001026",
+    "start": 366,
+    "end": 381
+  },
+  {
+    "location": "John 1:27",
+    "tag": "43001027",
+    "start": 382,
+    "end": 397
+  },
+  {
+    "location": "John 1:28",
+    "tag": "43001028",
+    "start": 398,
+    "end": 409
+  },
+  {
+    "location": "John 1:29",
+    "tag": "43001029",
+    "start": 410,
+    "end": 430
+  },
+  {
+    "location": "John 1:30",
+    "tag": "43001030",
+    "start": 431,
+    "end": 448
+  },
+  {
+    "location": "John 1:31",
+    "tag": "43001031",
+    "start": 449,
+    "end": 464
+  },
+  {
+    "location": "John 1:32",
+    "tag": "43001032",
+    "start": 465,
+    "end": 481
+  },
+  {
+    "location": "John 1:33",
+    "tag": "43001033",
+    "start": 482,
+    "end": 513
+  },
+  {
+    "location": "John 1:34",
+    "tag": "43001034",
+    "start": 514,
+    "end": 524
+  },
+  {
+    "location": "John 1:35",
+    "tag": "43001035",
+    "start": 525,
+    "end": 536
+  },
+  {
+    "location": "John 1:36",
+    "tag": "43001036",
+    "start": 537,
+    "end": 547
+  },
+  {
+    "location": "John 1:37",
+    "tag": "43001037",
+    "start": 548,
+    "end": 558
+  },
+  {
+    "location": "John 1:38",
+    "tag": "43001038",
+    "start": 559,
+    "end": 581
+  },
+  {
+    "location": "John 1:39",
+    "tag": "43001039",
+    "start": 582,
+    "end": 603
+  },
+  {
+    "location": "John 1:40",
+    "tag": "43001040",
+    "start": 604,
+    "end": 620
+  },
+  {
+    "location": "John 1:41",
+    "tag": "43001041",
+    "start": 621,
+    "end": 638
+  },
+  {
+    "location": "John 1:42",
+    "tag": "43001042",
+    "start": 639,
+    "end": 660
+  },
+  {
+    "location": "John 1:43",
+    "tag": "43001043",
+    "start": 661,
+    "end": 677
+  },
+  {
+    "location": "John 1:44",
+    "tag": "43001044",
+    "start": 678,
+    "end": 689
+  },
+  {
+    "location": "John 1:45",
+    "tag": "43001045",
+    "start": 690,
+    "end": 713
+  },
+  {
+    "location": "John 1:46",
+    "tag": "43001046",
+    "start": 714,
+    "end": 730
+  },
+  {
+    "location": "John 1:47",
+    "tag": "43001047",
+    "start": 731,
+    "end": 749
+  },
+  {
+    "location": "John 1:48",
+    "tag": "43001048",
+    "start": 750,
+    "end": 771
+  },
+  {
+    "location": "John 1:49",
+    "tag": "43001049",
+    "start": 772,
+    "end": 786
+  },
+  {
+    "location": "John 1:50",
+    "tag": "43001050",
+    "start": 787,
+    "end": 804
+  },
+  {
+    "location": "John 1:51",
+    "tag": "43001051",
+    "start": 805,
+    "end": 828
+  },
+  {
+    "location": "John 2:1",
+    "tag": "43002001",
+    "start": 829,
+    "end": 846
+  },
+  {
+    "location": "John 2:2",
+    "tag": "43002002",
+    "start": 847,
+    "end": 858
+  },
+  {
+    "location": "John 2:3",
+    "tag": "43002003",
+    "start": 859,
+    "end": 871
+  },
+  {
+    "location": "John 2:4",
+    "tag": "43002004",
+    "start": 872,
+    "end": 886
+  },
+  {
+    "location": "John 2:5",
+    "tag": "43002005",
+    "start": 887,
+    "end": 898
+  },
+  {
+    "location": "John 2:6",
+    "tag": "43002006",
+    "start": 899,
+    "end": 916
+  },
+  {
+    "location": "John 2:7",
+    "tag": "43002007",
+    "start": 917,
+    "end": 929
+  },
+  {
+    "location": "John 2:8",
+    "tag": "43002008",
+    "start": 930,
+    "end": 941
+  },
+  {
+    "location": "John 2:9",
+    "tag": "43002009",
+    "start": 942,
+    "end": 968
+  },
+  {
+    "location": "John 2:10",
+    "tag": "43002010",
+    "start": 969,
+    "end": 990
+  },
+  {
+    "location": "John 2:11",
+    "tag": "43002011",
+    "start": 991,
+    "end": 1013
+  },
+  {
+    "location": "John 2:12",
+    "tag": "43002012",
+    "start": 1014,
+    "end": 1036
+  },
+  {
+    "location": "John 2:13",
+    "tag": "43002013",
+    "start": 1037,
+    "end": 1049
+  },
+  {
+    "location": "John 2:14",
+    "tag": "43002014",
+    "start": 1050,
+    "end": 1065
+  },
+  {
+    "location": "John 2:15",
+    "tag": "43002015",
+    "start": 1066,
+    "end": 1091
+  },
+  {
+    "location": "John 2:16",
+    "tag": "43002016",
+    "start": 1092,
+    "end": 1109
+  },
+  {
+    "location": "John 2:17",
+    "tag": "43002017",
+    "start": 1110,
+    "end": 1123
+  },
+  {
+    "location": "John 2:18",
+    "tag": "43002018",
+    "start": 1124,
+    "end": 1137
+  },
+  {
+    "location": "John 2:19",
+    "tag": "43002019",
+    "start": 1138,
+    "end": 1152
+  },
+  {
+    "location": "John 2:20",
+    "tag": "43002020",
+    "start": 1153,
+    "end": 1171
+  },
+  {
+    "location": "John 2:21",
+    "tag": "43002021",
+    "start": 1172,
+    "end": 1180
+  },
+  {
+    "location": "John 2:22",
+    "tag": "43002022",
+    "start": 1181,
+    "end": 1203
+  },
+  {
+    "location": "John 2:23",
+    "tag": "43002023",
+    "start": 1204,
+    "end": 1227
+  },
+  {
+    "location": "John 2:24",
+    "tag": "43002024",
+    "start": 1228,
+    "end": 1239
+  },
+  {
+    "location": "John 2:25",
+    "tag": "43002025",
+    "start": 1240,
+    "end": 1258
+  },
+  {
+    "location": "John 3:1",
+    "tag": "43003001",
+    "start": 1259,
+    "end": 1270
+  },
+  {
+    "location": "John 3:2",
+    "tag": "43003002",
+    "start": 1271,
+    "end": 1302
+  },
+  {
+    "location": "John 3:3",
+    "tag": "43003003",
+    "start": 1303,
+    "end": 1323
+  },
+  {
+    "location": "John 3:4",
+    "tag": "43003004",
+    "start": 1324,
+    "end": 1346
+  },
+  {
+    "location": "John 3:5",
+    "tag": "43003005",
+    "start": 1347,
+    "end": 1368
+  },
+  {
+    "location": "John 3:6",
+    "tag": "43003006",
+    "start": 1369,
+    "end": 1383
+  },
+  {
+    "location": "John 3:7",
+    "tag": "43003007",
+    "start": 1384,
+    "end": 1392
+  },
+  {
+    "location": "John 3:8",
+    "tag": "43003008",
+    "start": 1393,
+    "end": 1418
+  },
+  {
+    "location": "John 3:9",
+    "tag": "43003009",
+    "start": 1419,
+    "end": 1427
+  },
+  {
+    "location": "John 3:10",
+    "tag": "43003010",
+    "start": 1428,
+    "end": 1442
+  },
+  {
+    "location": "John 3:11",
+    "tag": "43003011",
+    "start": 1443,
+    "end": 1460
+  },
+  {
+    "location": "John 3:12",
+    "tag": "43003012",
+    "start": 1461,
+    "end": 1475
+  },
+  {
+    "location": "John 3:13",
+    "tag": "43003013",
+    "start": 1476,
+    "end": 1492
+  },
+  {
+    "location": "John 3:14",
+    "tag": "43003014",
+    "start": 1493,
+    "end": 1508
+  },
+  {
+    "location": "John 3:15",
+    "tag": "43003015",
+    "start": 1509,
+    "end": 1517
+  },
+  {
+    "location": "John 3:16",
+    "tag": "43003016",
+    "start": 1518,
+    "end": 1542
+  },
+  {
+    "location": "John 3:17",
+    "tag": "43003017",
+    "start": 1543,
+    "end": 1563
+  },
+  {
+    "location": "John 3:18",
+    "tag": "43003018",
+    "start": 1564,
+    "end": 1585
+  },
+  {
+    "location": "John 3:19",
+    "tag": "43003019",
+    "start": 1586,
+    "end": 1613
+  },
+  {
+    "location": "John 3:20",
+    "tag": "43003020",
+    "start": 1614,
+    "end": 1633
+  },
+  {
+    "location": "John 3:21",
+    "tag": "43003021",
+    "start": 1634,
+    "end": 1652
+  },
+  {
+    "location": "John 3:22",
+    "tag": "43003022",
+    "start": 1653,
+    "end": 1672
+  },
+  {
+    "location": "John 3:23",
+    "tag": "43003023",
+    "start": 1673,
+    "end": 1691
+  },
+  {
+    "location": "John 3:24",
+    "tag": "43003024",
+    "start": 1692,
+    "end": 1699
+  },
+  {
+    "location": "John 3:25",
+    "tag": "43003025",
+    "start": 1700,
+    "end": 1710
+  },
+  {
+    "location": "John 3:26",
+    "tag": "43003026",
+    "start": 1711,
+    "end": 1737
+  },
+  {
+    "location": "John 3:27",
+    "tag": "43003027",
+    "start": 1738,
+    "end": 1754
+  },
+  {
+    "location": "John 3:28",
+    "tag": "43003028",
+    "start": 1755,
+    "end": 1771
+  },
+  {
+    "location": "John 3:29",
+    "tag": "43003029",
+    "start": 1772,
+    "end": 1801
+  },
+  {
+    "location": "John 3:30",
+    "tag": "43003030",
+    "start": 1802,
+    "end": 1807
+  },
+  {
+    "location": "John 3:31",
+    "tag": "43003031",
+    "start": 1808,
+    "end": 1835
+  },
+  {
+    "location": "John 3:32",
+    "tag": "43003032",
+    "start": 1836,
+    "end": 1847
+  },
+  {
+    "location": "John 3:33",
+    "tag": "43003033",
+    "start": 1848,
+    "end": 1858
+  },
+  {
+    "location": "John 3:34",
+    "tag": "43003034",
+    "start": 1859,
+    "end": 1875
+  },
+  {
+    "location": "John 3:35",
+    "tag": "43003035",
+    "start": 1876,
+    "end": 1887
+  },
+  {
+    "location": "John 3:36",
+    "tag": "43003036",
+    "start": 1888,
+    "end": 1911
+  },
+  {
+    "location": "John 4:1",
+    "tag": "43004001",
+    "start": 1912,
+    "end": 1929
+  },
+  {
+    "location": "John 4:2",
+    "tag": "43004002",
+    "start": 1930,
+    "end": 1938
+  },
+  {
+    "location": "John 4:3",
+    "tag": "43004003",
+    "start": 1939,
+    "end": 1947
+  },
+  {
+    "location": "John 4:4",
+    "tag": "43004004",
+    "start": 1948,
+    "end": 1954
+  },
+  {
+    "location": "John 4:5",
+    "tag": "43004005",
+    "start": 1955,
+    "end": 1972
+  },
+  {
+    "location": "John 4:6",
+    "tag": "43004006",
+    "start": 1973,
+    "end": 1994
+  },
+  {
+    "location": "John 4:7",
+    "tag": "43004007",
+    "start": 1995,
+    "end": 2008
+  },
+  {
+    "location": "John 4:8",
+    "tag": "43004008",
+    "start": 2009,
+    "end": 2019
+  },
+  {
+    "location": "John 4:9",
+    "tag": "43004009",
+    "start": 2020,
+    "end": 2042
+  },
+  {
+    "location": "John 4:10",
+    "tag": "43004010",
+    "start": 2043,
+    "end": 2072
+  },
+  {
+    "location": "John 4:11",
+    "tag": "43004011",
+    "start": 2073,
+    "end": 2090
+  },
+  {
+    "location": "John 4:12",
+    "tag": "43004012",
+    "start": 2091,
+    "end": 2116
+  },
+  {
+    "location": "John 4:13",
+    "tag": "43004013",
+    "start": 2117,
+    "end": 2130
+  },
+  {
+    "location": "John 4:14",
+    "tag": "43004014",
+    "start": 2131,
+    "end": 2162
+  },
+  {
+    "location": "John 4:15",
+    "tag": "43004015",
+    "start": 2163,
+    "end": 2180
+  },
+  {
+    "location": "John 4:16",
+    "tag": "43004016",
+    "start": 2181,
+    "end": 2190
+  },
+  {
+    "location": "John 4:17",
+    "tag": "43004017",
+    "start": 2191,
+    "end": 2208
+  },
+  {
+    "location": "John 4:18",
+    "tag": "43004018",
+    "start": 2209,
+    "end": 2223
+  },
+  {
+    "location": "John 4:19",
+    "tag": "43004019",
+    "start": 2224,
+    "end": 2233
+  },
+  {
+    "location": "John 4:20",
+    "tag": "43004020",
+    "start": 2234,
+    "end": 2253
+  },
+  {
+    "location": "John 4:21",
+    "tag": "43004021",
+    "start": 2254,
+    "end": 2275
+  },
+  {
+    "location": "John 4:22",
+    "tag": "43004022",
+    "start": 2276,
+    "end": 2291
+  },
+  {
+    "location": "John 4:23",
+    "tag": "43004023",
+    "start": 2292,
+    "end": 2317
+  },
+  {
+    "location": "John 4:24",
+    "tag": "43004024",
+    "start": 2318,
+    "end": 2329
+  },
+  {
+    "location": "John 4:25",
+    "tag": "43004025",
+    "start": 2330,
+    "end": 2346
+  },
+  {
+    "location": "John 4:26",
+    "tag": "43004026",
+    "start": 2347,
+    "end": 2355
+  },
+  {
+    "location": "John 4:27",
+    "tag": "43004027",
+    "start": 2356,
+    "end": 2378
+  },
+  {
+    "location": "John 4:28",
+    "tag": "43004028",
+    "start": 2379,
+    "end": 2394
+  },
+  {
+    "location": "John 4:29",
+    "tag": "43004029",
+    "start": 2395,
+    "end": 2408
+  },
+  {
+    "location": "John 4:30",
+    "tag": "43004030",
+    "start": 2409,
+    "end": 2416
+  },
+  {
+    "location": "John 4:31",
+    "tag": "43004031",
+    "start": 2417,
+    "end": 2426
+  },
+  {
+    "location": "John 4:32",
+    "tag": "43004032",
+    "start": 2427,
+    "end": 2438
+  },
+  {
+    "location": "John 4:33",
+    "tag": "43004033",
+    "start": 2439,
+    "end": 2449
+  },
+  {
+    "location": "John 4:34",
+    "tag": "43004034",
+    "start": 2450,
+    "end": 2468
+  },
+  {
+    "location": "John 4:35",
+    "tag": "43004035",
+    "start": 2469,
+    "end": 2496
+  },
+  {
+    "location": "John 4:36",
+    "tag": "43004036",
+    "start": 2497,
+    "end": 2514
+  },
+  {
+    "location": "John 4:37",
+    "tag": "43004037",
+    "start": 2515,
+    "end": 2530
+  },
+  {
+    "location": "John 4:38",
+    "tag": "43004038",
+    "start": 2531,
+    "end": 2547
+  },
+  {
+    "location": "John 4:39",
+    "tag": "43004039",
+    "start": 2548,
+    "end": 2570
+  },
+  {
+    "location": "John 4:40",
+    "tag": "43004040",
+    "start": 2571,
+    "end": 2587
+  },
+  {
+    "location": "John 4:41",
+    "tag": "43004041",
+    "start": 2588,
+    "end": 2595
+  },
+  {
+    "location": "John 4:42",
+    "tag": "43004042",
+    "start": 2596,
+    "end": 2619
+  },
+  {
+    "location": "John 4:43",
+    "tag": "43004043",
+    "start": 2620,
+    "end": 2629
+  },
+  {
+    "location": "John 4:44",
+    "tag": "43004044",
+    "start": 2630,
+    "end": 2642
+  },
+  {
+    "location": "John 4:45",
+    "tag": "43004045",
+    "start": 2643,
+    "end": 2668
+  },
+  {
+    "location": "John 4:46",
+    "tag": "43004046",
+    "start": 2669,
+    "end": 2691
+  },
+  {
+    "location": "John 4:47",
+    "tag": "43004047",
+    "start": 2692,
+    "end": 2717
+  },
+  {
+    "location": "John 4:48",
+    "tag": "43004048",
+    "start": 2718,
+    "end": 2732
+  },
+  {
+    "location": "John 4:49",
+    "tag": "43004049",
+    "start": 2733,
+    "end": 2744
+  },
+  {
+    "location": "John 4:50",
+    "tag": "43004050",
+    "start": 2745,
+    "end": 2765
+  },
+  {
+    "location": "John 4:51",
+    "tag": "43004051",
+    "start": 2766,
+    "end": 2779
+  },
+  {
+    "location": "John 4:52",
+    "tag": "43004052",
+    "start": 2780,
+    "end": 2800
+  },
+  {
+    "location": "John 4:53",
+    "tag": "43004053",
+    "start": 2801,
+    "end": 2826
+  },
+  {
+    "location": "John 4:54",
+    "tag": "43004054",
+    "start": 2827,
+    "end": 2841
+  },
+  {
+    "location": "John 5:1",
+    "tag": "43005001",
+    "start": 2842,
+    "end": 2852
+  },
+  {
+    "location": "John 5:2",
+    "tag": "43005002",
+    "start": 2853,
+    "end": 2868
+  },
+  {
+    "location": "John 5:3",
+    "tag": "43005003",
+    "start": 2869,
+    "end": 2882
+  },
+  {
+    "location": "John 5:4",
+    "tag": "43005004",
+    "start": 2883,
+    "end": 2909
+  },
+  {
+    "location": "John 5:5",
+    "tag": "43005005",
+    "start": 2910,
+    "end": 2923
+  },
+  {
+    "location": "John 5:6",
+    "tag": "43005006",
+    "start": 2924,
+    "end": 2940
+  },
+  {
+    "location": "John 5:7",
+    "tag": "43005007",
+    "start": 2941,
+    "end": 2967
+  },
+  {
+    "location": "John 5:8",
+    "tag": "43005008",
+    "start": 2968,
+    "end": 2978
+  },
+  {
+    "location": "John 5:9",
+    "tag": "43005009",
+    "start": 2979,
+    "end": 2998
+  },
+  {
+    "location": "John 5:10",
+    "tag": "43005010",
+    "start": 2999,
+    "end": 3013
+  },
+  {
+    "location": "John 5:11",
+    "tag": "43005011",
+    "start": 3014,
+    "end": 3030
+  },
+  {
+    "location": "John 5:12",
+    "tag": "43005012",
+    "start": 3031,
+    "end": 3042
+  },
+  {
+    "location": "John 5:13",
+    "tag": "43005013",
+    "start": 3043,
+    "end": 3058
+  },
+  {
+    "location": "John 5:14",
+    "tag": "43005014",
+    "start": 3059,
+    "end": 3081
+  },
+  {
+    "location": "John 5:15",
+    "tag": "43005015",
+    "start": 3082,
+    "end": 3095
+  },
+  {
+    "location": "John 5:16",
+    "tag": "43005016",
+    "start": 3096,
+    "end": 3108
+  },
+  {
+    "location": "John 5:17",
+    "tag": "43005017",
+    "start": 3109,
+    "end": 3120
+  },
+  {
+    "location": "John 5:18",
+    "tag": "43005018",
+    "start": 3121,
+    "end": 3147
+  },
+  {
+    "location": "John 5:19",
+    "tag": "43005019",
+    "start": 3148,
+    "end": 3184
+  },
+  {
+    "location": "John 5:20",
+    "tag": "43005020",
+    "start": 3185,
+    "end": 3206
+  },
+  {
+    "location": "John 5:21",
+    "tag": "43005021",
+    "start": 3207,
+    "end": 3222
+  },
+  {
+    "location": "John 5:22",
+    "tag": "43005022",
+    "start": 3223,
+    "end": 3235
+  },
+  {
+    "location": "John 5:23",
+    "tag": "43005023",
+    "start": 3236,
+    "end": 3256
+  },
+  {
+    "location": "John 5:24",
+    "tag": "43005024",
+    "start": 3257,
+    "end": 3287
+  },
+  {
+    "location": "John 5:25",
+    "tag": "43005025",
+    "start": 3288,
+    "end": 3311
+  },
+  {
+    "location": "John 5:26",
+    "tag": "43005026",
+    "start": 3312,
+    "end": 3328
+  },
+  {
+    "location": "John 5:27",
+    "tag": "43005027",
+    "start": 3329,
+    "end": 3338
+  },
+  {
+    "location": "John 5:28",
+    "tag": "43005028",
+    "start": 3339,
+    "end": 3355
+  },
+  {
+    "location": "John 5:29",
+    "tag": "43005029",
+    "start": 3356,
+    "end": 3371
+  },
+  {
+    "location": "John 5:30",
+    "tag": "43005030",
+    "start": 3372,
+    "end": 3401
+  },
+  {
+    "location": "John 5:31",
+    "tag": "43005031",
+    "start": 3402,
+    "end": 3412
+  },
+  {
+    "location": "John 5:32",
+    "tag": "43005032",
+    "start": 3413,
+    "end": 3429
+  },
+  {
+    "location": "John 5:33",
+    "tag": "43005033",
+    "start": 3430,
+    "end": 3437
+  },
+  {
+    "location": "John 5:34",
+    "tag": "43005034",
+    "start": 3438,
+    "end": 3451
+  },
+  {
+    "location": "John 5:35",
+    "tag": "43005035",
+    "start": 3452,
+    "end": 3469
+  },
+  {
+    "location": "John 5:36",
+    "tag": "43005036",
+    "start": 3470,
+    "end": 3501
+  },
+  {
+    "location": "John 5:37",
+    "tag": "43005037",
+    "start": 3502,
+    "end": 3519
+  },
+  {
+    "location": "John 5:38",
+    "tag": "43005038",
+    "start": 3520,
+    "end": 3536
+  },
+  {
+    "location": "John 5:39",
+    "tag": "43005039",
+    "start": 3537,
+    "end": 3554
+  },
+  {
+    "location": "John 5:40",
+    "tag": "43005040",
+    "start": 3555,
+    "end": 3563
+  },
+  {
+    "location": "John 5:41",
+    "tag": "43005041",
+    "start": 3564,
+    "end": 3568
+  },
+  {
+    "location": "John 5:42",
+    "tag": "43005042",
+    "start": 3569,
+    "end": 3580
+  },
+  {
+    "location": "John 5:43",
+    "tag": "43005043",
+    "start": 3581,
+    "end": 3602
+  },
+  {
+    "location": "John 5:44",
+    "tag": "43005044",
+    "start": 3603,
+    "end": 3620
+  },
+  {
+    "location": "John 5:45",
+    "tag": "43005045",
+    "start": 3621,
+    "end": 3638
+  },
+  {
+    "location": "John 5:46",
+    "tag": "43005046",
+    "start": 3639,
+    "end": 3650
+  },
+  {
+    "location": "John 5:47",
+    "tag": "43005047",
+    "start": 3651,
+    "end": 3662
+  },
+  {
+    "location": "John 6:1",
+    "tag": "43006001",
+    "start": 3663,
+    "end": 3674
+  },
+  {
+    "location": "John 6:2",
+    "tag": "43006002",
+    "start": 3675,
+    "end": 3688
+  },
+  {
+    "location": "John 6:3",
+    "tag": "43006003",
+    "start": 3689,
+    "end": 3701
+  },
+  {
+    "location": "John 6:4",
+    "tag": "43006004",
+    "start": 3702,
+    "end": 3710
+  },
+  {
+    "location": "John 6:5",
+    "tag": "43006005",
+    "start": 3711,
+    "end": 3733
+  },
+  {
+    "location": "John 6:6",
+    "tag": "43006006",
+    "start": 3734,
+    "end": 3744
+  },
+  {
+    "location": "John 6:7",
+    "tag": "43006007",
+    "start": 3745,
+    "end": 3759
+  },
+  {
+    "location": "John 6:8",
+    "tag": "43006008",
+    "start": 3760,
+    "end": 3771
+  },
+  {
+    "location": "John 6:9",
+    "tag": "43006009",
+    "start": 3772,
+    "end": 3788
+  },
+  {
+    "location": "John 6:10",
+    "tag": "43006010",
+    "start": 3789,
+    "end": 3810
+  },
+  {
+    "location": "John 6:11",
+    "tag": "43006011",
+    "start": 3811,
+    "end": 3828
+  },
+  {
+    "location": "John 6:12",
+    "tag": "43006012",
+    "start": 3829,
+    "end": 3843
+  },
+  {
+    "location": "John 6:13",
+    "tag": "43006013",
+    "start": 3844,
+    "end": 3860
+  },
+  {
+    "location": "John 6:14",
+    "tag": "43006014",
+    "start": 3861,
+    "end": 3879
+  },
+  {
+    "location": "John 6:15",
+    "tag": "43006015",
+    "start": 3880,
+    "end": 3898
+  },
+  {
+    "location": "John 6:16",
+    "tag": "43006016",
+    "start": 3899,
+    "end": 3909
+  },
+  {
+    "location": "John 6:17",
+    "tag": "43006017",
+    "start": 3910,
+    "end": 3930
+  },
+  {
+    "location": "John 6:18",
+    "tag": "43006018",
+    "start": 3931,
+    "end": 3937
+  },
+  {
+    "location": "John 6:19",
+    "tag": "43006019",
+    "start": 3938,
+    "end": 3959
+  },
+  {
+    "location": "John 6:20",
+    "tag": "43006020",
+    "start": 3960,
+    "end": 3967
+  },
+  {
+    "location": "John 6:21",
+    "tag": "43006021",
+    "start": 3968,
+    "end": 3985
+  },
+  {
+    "location": "John 6:22",
+    "tag": "43006022",
+    "start": 3986,
+    "end": 4022
+  },
+  {
+    "location": "John 6:23",
+    "tag": "43006023",
+    "start": 4023,
+    "end": 4037
+  },
+  {
+    "location": "John 6:24",
+    "tag": "43006024",
+    "start": 4038,
+    "end": 4063
+  },
+  {
+    "location": "John 6:25",
+    "tag": "43006025",
+    "start": 4064,
+    "end": 4075
+  },
+  {
+    "location": "John 6:26",
+    "tag": "43006026",
+    "start": 4076,
+    "end": 4099
+  },
+  {
+    "location": "John 6:27",
+    "tag": "43006027",
+    "start": 4100,
+    "end": 4127
+  },
+  {
+    "location": "John 6:28",
+    "tag": "43006028",
+    "start": 4128,
+    "end": 4139
+  },
+  {
+    "location": "John 6:29",
+    "tag": "43006029",
+    "start": 4140,
+    "end": 4156
+  },
+  {
+    "location": "John 6:30",
+    "tag": "43006030",
+    "start": 4157,
+    "end": 4171
+  },
+  {
+    "location": "John 6:31",
+    "tag": "43006031",
+    "start": 4172,
+    "end": 4190
+  },
+  {
+    "location": "John 6:32",
+    "tag": "43006032",
+    "start": 4191,
+    "end": 4221
+  },
+  {
+    "location": "John 6:33",
+    "tag": "43006033",
+    "start": 4222,
+    "end": 4237
+  },
+  {
+    "location": "John 6:34",
+    "tag": "43006034",
+    "start": 4238,
+    "end": 4248
+  },
+  {
+    "location": "John 6:35",
+    "tag": "43006035",
+    "start": 4249,
+    "end": 4274
+  },
+  {
+    "location": "John 6:36",
+    "tag": "43006036",
+    "start": 4275,
+    "end": 4284
+  },
+  {
+    "location": "John 6:37",
+    "tag": "43006037",
+    "start": 4285,
+    "end": 4302
+  },
+  {
+    "location": "John 6:38",
+    "tag": "43006038",
+    "start": 4303,
+    "end": 4320
+  },
+  {
+    "location": "John 6:39",
+    "tag": "43006039",
+    "start": 4321,
+    "end": 4344
+  },
+  {
+    "location": "John 6:40",
+    "tag": "43006040",
+    "start": 4345,
+    "end": 4373
+  },
+  {
+    "location": "John 6:41",
+    "tag": "43006041",
+    "start": 4374,
+    "end": 4390
+  },
+  {
+    "location": "John 6:42",
+    "tag": "43006042",
+    "start": 4391,
+    "end": 4415
+  },
+  {
+    "location": "John 6:43",
+    "tag": "43006043",
+    "start": 4416,
+    "end": 4424
+  },
+  {
+    "location": "John 6:44",
+    "tag": "43006044",
+    "start": 4425,
+    "end": 4445
+  },
+  {
+    "location": "John 6:45",
+    "tag": "43006045",
+    "start": 4446,
+    "end": 4466
+  },
+  {
+    "location": "John 6:46",
+    "tag": "43006046",
+    "start": 4467,
+    "end": 4483
+  },
+  {
+    "location": "John 6:47",
+    "tag": "43006047",
+    "start": 4484,
+    "end": 4492
+  },
+  {
+    "location": "John 6:48",
+    "tag": "43006048",
+    "start": 4493,
+    "end": 4498
+  },
+  {
+    "location": "John 6:49",
+    "tag": "43006049",
+    "start": 4499,
+    "end": 4509
+  },
+  {
+    "location": "John 6:50",
+    "tag": "43006050",
+    "start": 4510,
+    "end": 4526
+  },
+  {
+    "location": "John 6:51",
+    "tag": "43006051",
+    "start": 4527,
+    "end": 4564
+  },
+  {
+    "location": "John 6:52",
+    "tag": "43006052",
+    "start": 4565,
+    "end": 4579
+  },
+  {
+    "location": "John 6:53",
+    "tag": "43006053",
+    "start": 4580,
+    "end": 4607
+  },
+  {
+    "location": "John 6:54",
+    "tag": "43006054",
+    "start": 4608,
+    "end": 4626
+  },
+  {
+    "location": "John 6:55",
+    "tag": "43006055",
+    "start": 4627,
+    "end": 4640
+  },
+  {
+    "location": "John 6:56",
+    "tag": "43006056",
+    "start": 4641,
+    "end": 4656
+  },
+  {
+    "location": "John 6:57",
+    "tag": "43006057",
+    "start": 4657,
+    "end": 4675
+  },
+  {
+    "location": "John 6:58",
+    "tag": "43006058",
+    "start": 4676,
+    "end": 4699
+  },
+  {
+    "location": "John 6:59",
+    "tag": "43006059",
+    "start": 4700,
+    "end": 4706
+  },
+  {
+    "location": "John 6:60",
+    "tag": "43006060",
+    "start": 4707,
+    "end": 4723
+  },
+  {
+    "location": "John 6:61",
+    "tag": "43006061",
+    "start": 4724,
+    "end": 4741
+  },
+  {
+    "location": "John 6:62",
+    "tag": "43006062",
+    "start": 4742,
+    "end": 4753
+  },
+  {
+    "location": "John 6:63",
+    "tag": "43006063",
+    "start": 4754,
+    "end": 4774
+  },
+  {
+    "location": "John 6:64",
+    "tag": "43006064",
+    "start": 4775,
+    "end": 4799
+  },
+  {
+    "location": "John 6:65",
+    "tag": "43006065",
+    "start": 4800,
+    "end": 4819
+  },
+  {
+    "location": "John 6:66",
+    "tag": "43006066",
+    "start": 4820,
+    "end": 4834
+  },
+  {
+    "location": "John 6:67",
+    "tag": "43006067",
+    "start": 4835,
+    "end": 4845
+  },
+  {
+    "location": "John 6:68",
+    "tag": "43006068",
+    "start": 4846,
+    "end": 4857
+  },
+  {
+    "location": "John 6:69",
+    "tag": "43006069",
+    "start": 4858,
+    "end": 4869
+  },
+  {
+    "location": "John 6:70",
+    "tag": "43006070",
+    "start": 4870,
+    "end": 4885
+  },
+  {
+    "location": "John 6:71",
+    "tag": "43006071",
+    "start": 4886,
+    "end": 4900
+  },
+  {
+    "location": "John 7:1",
+    "tag": "43007001",
+    "start": 4901,
+    "end": 4922
+  },
+  {
+    "location": "John 7:2",
+    "tag": "43007002",
+    "start": 4923,
+    "end": 4931
+  },
+  {
+    "location": "John 7:3",
+    "tag": "43007003",
+    "start": 4932,
+    "end": 4956
+  },
+  {
+    "location": "John 7:4",
+    "tag": "43007004",
+    "start": 4957,
+    "end": 4975
+  },
+  {
+    "location": "John 7:5",
+    "tag": "43007005",
+    "start": 4976,
+    "end": 4983
+  },
+  {
+    "location": "John 7:6",
+    "tag": "43007006",
+    "start": 4984,
+    "end": 5002
+  },
+  {
+    "location": "John 7:7",
+    "tag": "43007007",
+    "start": 5003,
+    "end": 5022
+  },
+  {
+    "location": "John 7:8",
+    "tag": "43007008",
+    "start": 5023,
+    "end": 5040
+  },
+  {
+    "location": "John 7:9",
+    "tag": "43007009",
+    "start": 5041,
+    "end": 5048
+  },
+  {
+    "location": "John 7:10",
+    "tag": "43007010",
+    "start": 5049,
+    "end": 5067
+  },
+  {
+    "location": "John 7:11",
+    "tag": "43007011",
+    "start": 5068,
+    "end": 5080
+  },
+  {
+    "location": "John 7:12",
+    "tag": "43007012",
+    "start": 5081,
+    "end": 5103
+  },
+  {
+    "location": "John 7:13",
+    "tag": "43007013",
+    "start": 5104,
+    "end": 5114
+  },
+  {
+    "location": "John 7:14",
+    "tag": "43007014",
+    "start": 5115,
+    "end": 5126
+  },
+  {
+    "location": "John 7:15",
+    "tag": "43007015",
+    "start": 5127,
+    "end": 5137
+  },
+  {
+    "location": "John 7:16",
+    "tag": "43007016",
+    "start": 5138,
+    "end": 5153
+  },
+  {
+    "location": "John 7:17",
+    "tag": "43007017",
+    "start": 5154,
+    "end": 5174
+  },
+  {
+    "location": "John 7:18",
+    "tag": "43007018",
+    "start": 5175,
+    "end": 5200
+  },
+  {
+    "location": "John 7:19",
+    "tag": "43007019",
+    "start": 5201,
+    "end": 5217
+  },
+  {
+    "location": "John 7:20",
+    "tag": "43007020",
+    "start": 5218,
+    "end": 5226
+  },
+  {
+    "location": "John 7:21",
+    "tag": "43007021",
+    "start": 5227,
+    "end": 5237
+  },
+  {
+    "location": "John 7:22",
+    "tag": "43007022",
+    "start": 5238,
+    "end": 5259
+  },
+  {
+    "location": "John 7:23",
+    "tag": "43007023",
+    "start": 5260,
+    "end": 5280
+  },
+  {
+    "location": "John 7:24",
+    "tag": "43007024",
+    "start": 5281,
+    "end": 5289
+  },
+  {
+    "location": "John 7:25",
+    "tag": "43007025",
+    "start": 5290,
+    "end": 5301
+  },
+  {
+    "location": "John 7:26",
+    "tag": "43007026",
+    "start": 5302,
+    "end": 5320
+  },
+  {
+    "location": "John 7:27",
+    "tag": "43007027",
+    "start": 5321,
+    "end": 5334
+  },
+  {
+    "location": "John 7:28",
+    "tag": "43007028",
+    "start": 5335,
+    "end": 5365
+  },
+  {
+    "location": "John 7:29",
+    "tag": "43007029",
+    "start": 5366,
+    "end": 5375
+  },
+  {
+    "location": "John 7:30",
+    "tag": "43007030",
+    "start": 5376,
+    "end": 5392
+  },
+  {
+    "location": "John 7:31",
+    "tag": "43007031",
+    "start": 5393,
+    "end": 5413
+  },
+  {
+    "location": "John 7:32",
+    "tag": "43007032",
+    "start": 5414,
+    "end": 5433
+  },
+  {
+    "location": "John 7:33",
+    "tag": "43007033",
+    "start": 5434,
+    "end": 5449
+  },
+  {
+    "location": "John 7:34",
+    "tag": "43007034",
+    "start": 5450,
+    "end": 5462
+  },
+  {
+    "location": "John 7:35",
+    "tag": "43007035",
+    "start": 5463,
+    "end": 5489
+  },
+  {
+    "location": "John 7:36",
+    "tag": "43007036",
+    "start": 5490,
+    "end": 5509
+  },
+  {
+    "location": "John 7:37",
+    "tag": "43007037",
+    "start": 5510,
+    "end": 5532
+  },
+  {
+    "location": "John 7:38",
+    "tag": "43007038",
+    "start": 5533,
+    "end": 5548
+  },
+  {
+    "location": "John 7:39",
+    "tag": "43007039",
+    "start": 5549,
+    "end": 5569
+  },
+  {
+    "location": "John 7:40",
+    "tag": "43007040",
+    "start": 5570,
+    "end": 5583
+  },
+  {
+    "location": "John 7:41",
+    "tag": "43007041",
+    "start": 5584,
+    "end": 5600
+  },
+  {
+    "location": "John 7:42",
+    "tag": "43007042",
+    "start": 5601,
+    "end": 5620
+  },
+  {
+    "location": "John 7:43",
+    "tag": "43007043",
+    "start": 5621,
+    "end": 5628
+  },
+  {
+    "location": "John 7:44",
+    "tag": "43007044",
+    "start": 5629,
+    "end": 5642
+  },
+  {
+    "location": "John 7:45",
+    "tag": "43007045",
+    "start": 5643,
+    "end": 5660
+  },
+  {
+    "location": "John 7:46",
+    "tag": "43007046",
+    "start": 5661,
+    "end": 5672
+  },
+  {
+    "location": "John 7:47",
+    "tag": "43007047",
+    "start": 5673,
+    "end": 5681
+  },
+  {
+    "location": "John 7:48",
+    "tag": "43007048",
+    "start": 5682,
+    "end": 5693
+  },
+  {
+    "location": "John 7:49",
+    "tag": "43007049",
+    "start": 5694,
+    "end": 5704
+  },
+  {
+    "location": "John 7:50",
+    "tag": "43007050",
+    "start": 5705,
+    "end": 5717
+  },
+  {
+    "location": "John 7:51",
+    "tag": "43007051",
+    "start": 5718,
+    "end": 5734
+  },
+  {
+    "location": "John 7:52",
+    "tag": "43007052",
+    "start": 5735,
+    "end": 5755
+  },
+  {
+    "location": "John 7:53",
+    "tag": "43007053",
+    "start": 5756,
+    "end": 5762
+  },
+  {
+    "location": "John 8:1",
+    "tag": "43008001",
+    "start": 5763,
+    "end": 5770
+  },
+  {
+    "location": "John 8:2",
+    "tag": "43008002",
+    "start": 5771,
+    "end": 5788
+  },
+  {
+    "location": "John 8:3",
+    "tag": "43008003",
+    "start": 5789,
+    "end": 5806
+  },
+  {
+    "location": "John 8:4",
+    "tag": "43008004",
+    "start": 5807,
+    "end": 5815
+  },
+  {
+    "location": "John 8:5",
+    "tag": "43008005",
+    "start": 5816,
+    "end": 5829
+  },
+  {
+    "location": "John 8:6",
+    "tag": "43008006",
+    "start": 5830,
+    "end": 5849
+  },
+  {
+    "location": "John 8:7",
+    "tag": "43008007",
+    "start": 5850,
+    "end": 5867
+  },
+  {
+    "location": "John 8:8",
+    "tag": "43008008",
+    "start": 5868,
+    "end": 5875
+  },
+  {
+    "location": "John 8:9",
+    "tag": "43008009",
+    "start": 5876,
+    "end": 5904
+  },
+  {
+    "location": "John 8:10",
+    "tag": "43008010",
+    "start": 5905,
+    "end": 5927
+  },
+  {
+    "location": "John 8:11",
+    "tag": "43008011",
+    "start": 5928,
+    "end": 5945
+  },
+  {
+    "location": "John 8:12",
+    "tag": "43008012",
+    "start": 5946,
+    "end": 5973
+  },
+  {
+    "location": "John 8:13",
+    "tag": "43008013",
+    "start": 5974,
+    "end": 5988
+  },
+  {
+    "location": "John 8:14",
+    "tag": "43008014",
+    "start": 5989,
+    "end": 6019
+  },
+  {
+    "location": "John 8:15",
+    "tag": "43008015",
+    "start": 6020,
+    "end": 6028
+  },
+  {
+    "location": "John 8:16",
+    "tag": "43008016",
+    "start": 6029,
+    "end": 6049
+  },
+  {
+    "location": "John 8:17",
+    "tag": "43008017",
+    "start": 6050,
+    "end": 6064
+  },
+  {
+    "location": "John 8:18",
+    "tag": "43008018",
+    "start": 6065,
+    "end": 6078
+  },
+  {
+    "location": "John 8:19",
+    "tag": "43008019",
+    "start": 6079,
+    "end": 6104
+  },
+  {
+    "location": "John 8:20",
+    "tag": "43008020",
+    "start": 6105,
+    "end": 6125
+  },
+  {
+    "location": "John 8:21",
+    "tag": "43008021",
+    "start": 6126,
+    "end": 6147
+  },
+  {
+    "location": "John 8:22",
+    "tag": "43008022",
+    "start": 6148,
+    "end": 6163
+  },
+  {
+    "location": "John 8:23",
+    "tag": "43008023",
+    "start": 6164,
+    "end": 6189
+  },
+  {
+    "location": "John 8:24",
+    "tag": "43008024",
+    "start": 6190,
+    "end": 6210
+  },
+  {
+    "location": "John 8:25",
+    "tag": "43008025",
+    "start": 6211,
+    "end": 6227
+  },
+  {
+    "location": "John 8:26",
+    "tag": "43008026",
+    "start": 6228,
+    "end": 6250
+  },
+  {
+    "location": "John 8:27",
+    "tag": "43008027",
+    "start": 6251,
+    "end": 6257
+  },
+  {
+    "location": "John 8:28",
+    "tag": "43008028",
+    "start": 6258,
+    "end": 6285
+  },
+  {
+    "location": "John 8:29",
+    "tag": "43008029",
+    "start": 6286,
+    "end": 6303
+  },
+  {
+    "location": "John 8:30",
+    "tag": "43008030",
+    "start": 6304,
+    "end": 6310
+  },
+  {
+    "location": "John 8:31",
+    "tag": "43008031",
+    "start": 6311,
+    "end": 6331
+  },
+  {
+    "location": "John 8:32",
+    "tag": "43008032",
+    "start": 6332,
+    "end": 6340
+  },
+  {
+    "location": "John 8:33",
+    "tag": "43008033",
+    "start": 6341,
+    "end": 6356
+  },
+  {
+    "location": "John 8:34",
+    "tag": "43008034",
+    "start": 6357,
+    "end": 6374
+  },
+  {
+    "location": "John 8:35",
+    "tag": "43008035",
+    "start": 6375,
+    "end": 6391
+  },
+  {
+    "location": "John 8:36",
+    "tag": "43008036",
+    "start": 6392,
+    "end": 6400
+  },
+  {
+    "location": "John 8:37",
+    "tag": "43008037",
+    "start": 6401,
+    "end": 6418
+  },
+  {
+    "location": "John 8:38",
+    "tag": "43008038",
+    "start": 6419,
+    "end": 6434
+  },
+  {
+    "location": "John 8:39",
+    "tag": "43008039",
+    "start": 6435,
+    "end": 6457
+  },
+  {
+    "location": "John 8:40",
+    "tag": "43008040",
+    "start": 6458,
+    "end": 6477
+  },
+  {
+    "location": "John 8:41",
+    "tag": "43008041",
+    "start": 6478,
+    "end": 6496
+  },
+  {
+    "location": "John 8:42",
+    "tag": "43008042",
+    "start": 6497,
+    "end": 6526
+  },
+  {
+    "location": "John 8:43",
+    "tag": "43008043",
+    "start": 6527,
+    "end": 6542
+  },
+  {
+    "location": "John 8:44",
+    "tag": "43008044",
+    "start": 6543,
+    "end": 6589
+  },
+  {
+    "location": "John 8:45",
+    "tag": "43008045",
+    "start": 6590,
+    "end": 6598
+  },
+  {
+    "location": "John 8:46",
+    "tag": "43008046",
+    "start": 6599,
+    "end": 6614
+  },
+  {
+    "location": "John 8:47",
+    "tag": "43008047",
+    "start": 6615,
+    "end": 6635
+  },
+  {
+    "location": "John 8:48",
+    "tag": "43008048",
+    "start": 6636,
+    "end": 6652
+  },
+  {
+    "location": "John 8:49",
+    "tag": "43008049",
+    "start": 6653,
+    "end": 6667
+  },
+  {
+    "location": "John 8:50",
+    "tag": "43008050",
+    "start": 6668,
+    "end": 6679
+  },
+  {
+    "location": "John 8:51",
+    "tag": "43008051",
+    "start": 6680,
+    "end": 6696
+  },
+  {
+    "location": "John 8:52",
+    "tag": "43008052",
+    "start": 6697,
+    "end": 6726
+  },
+  {
+    "location": "John 8:53",
+    "tag": "43008053",
+    "start": 6727,
+    "end": 6743
+  },
+  {
+    "location": "John 8:54",
+    "tag": "43008054",
+    "start": 6744,
+    "end": 6768
+  },
+  {
+    "location": "John 8:55",
+    "tag": "43008055",
+    "start": 6769,
+    "end": 6794
+  },
+  {
+    "location": "John 8:56",
+    "tag": "43008056",
+    "start": 6795,
+    "end": 6809
+  },
+  {
+    "location": "John 8:57",
+    "tag": "43008057",
+    "start": 6810,
+    "end": 6822
+  },
+  {
+    "location": "John 8:58",
+    "tag": "43008058",
+    "start": 6823,
+    "end": 6834
+  },
+  {
+    "location": "John 8:59",
+    "tag": "43008059",
+    "start": 6835,
+    "end": 6849
+  },
+  {
+    "location": "John 9:1",
+    "tag": "43009001",
+    "start": 6850,
+    "end": 6856
+  },
+  {
+    "location": "John 9:2",
+    "tag": "43009002",
+    "start": 6857,
+    "end": 6874
+  },
+  {
+    "location": "John 9:3",
+    "tag": "43009003",
+    "start": 6875,
+    "end": 6892
+  },
+  {
+    "location": "John 9:4",
+    "tag": "43009004",
+    "start": 6893,
+    "end": 6909
+  },
+  {
+    "location": "John 9:5",
+    "tag": "43009005",
+    "start": 6910,
+    "end": 6918
+  },
+  {
+    "location": "John 9:6",
+    "tag": "43009006",
+    "start": 6919,
+    "end": 6936
+  },
+  {
+    "location": "John 9:7",
+    "tag": "43009007",
+    "start": 6937,
+    "end": 6956
+  },
+  {
+    "location": "John 9:8",
+    "tag": "43009008",
+    "start": 6957,
+    "end": 6976
+  },
+  {
+    "location": "John 9:9",
+    "tag": "43009009",
+    "start": 6977,
+    "end": 6993
+  },
+  {
+    "location": "John 9:10",
+    "tag": "43009010",
+    "start": 6994,
+    "end": 7002
+  },
+  {
+    "location": "John 9:11",
+    "tag": "43009011",
+    "start": 7003,
+    "end": 7031
+  },
+  {
+    "location": "John 9:12",
+    "tag": "43009012",
+    "start": 7032,
+    "end": 7040
+  },
+  {
+    "location": "John 9:13",
+    "tag": "43009013",
+    "start": 7041,
+    "end": 7048
+  },
+  {
+    "location": "John 9:14",
+    "tag": "43009014",
+    "start": 7049,
+    "end": 7064
+  },
+  {
+    "location": "John 9:15",
+    "tag": "43009015",
+    "start": 7065,
+    "end": 7087
+  },
+  {
+    "location": "John 9:16",
+    "tag": "43009016",
+    "start": 7088,
+    "end": 7119
+  },
+  {
+    "location": "John 9:17",
+    "tag": "43009017",
+    "start": 7120,
+    "end": 7140
+  },
+  {
+    "location": "John 9:18",
+    "tag": "43009018",
+    "start": 7141,
+    "end": 7160
+  },
+  {
+    "location": "John 9:19",
+    "tag": "43009019",
+    "start": 7161,
+    "end": 7179
+  },
+  {
+    "location": "John 9:20",
+    "tag": "43009020",
+    "start": 7180,
+    "end": 7197
+  },
+  {
+    "location": "John 9:21",
+    "tag": "43009021",
+    "start": 7198,
+    "end": 7220
+  },
+  {
+    "location": "John 9:22",
+    "tag": "43009022",
+    "start": 7221,
+    "end": 7242
+  },
+  {
+    "location": "John 9:23",
+    "tag": "43009023",
+    "start": 7243,
+    "end": 7253
+  },
+  {
+    "location": "John 9:24",
+    "tag": "43009024",
+    "start": 7254,
+    "end": 7277
+  },
+  {
+    "location": "John 9:25",
+    "tag": "43009025",
+    "start": 7278,
+    "end": 7292
+  },
+  {
+    "location": "John 9:26",
+    "tag": "43009026",
+    "start": 7293,
+    "end": 7303
+  },
+  {
+    "location": "John 9:27",
+    "tag": "43009027",
+    "start": 7304,
+    "end": 7322
+  },
+  {
+    "location": "John 9:28",
+    "tag": "43009028",
+    "start": 7323,
+    "end": 7337
+  },
+  {
+    "location": "John 9:29",
+    "tag": "43009029",
+    "start": 7338,
+    "end": 7350
+  },
+  {
+    "location": "John 9:30",
+    "tag": "43009030",
+    "start": 7351,
+    "end": 7373
+  },
+  {
+    "location": "John 9:31",
+    "tag": "43009031",
+    "start": 7374,
+    "end": 7392
+  },
+  {
+    "location": "John 9:32",
+    "tag": "43009032",
+    "start": 7393,
+    "end": 7403
+  },
+  {
+    "location": "John 9:33",
+    "tag": "43009033",
+    "start": 7404,
+    "end": 7413
+  },
+  {
+    "location": "John 9:34",
+    "tag": "43009034",
+    "start": 7414,
+    "end": 7430
+  },
+  {
+    "location": "John 9:35",
+    "tag": "43009035",
+    "start": 7431,
+    "end": 7447
+  },
+  {
+    "location": "John 9:36",
+    "tag": "43009036",
+    "start": 7448,
+    "end": 7459
+  },
+  {
+    "location": "John 9:37",
+    "tag": "43009037",
+    "start": 7460,
+    "end": 7473
+  },
+  {
+    "location": "John 9:38",
+    "tag": "43009038",
+    "start": 7474,
+    "end": 7481
+  },
+  {
+    "location": "John 9:39",
+    "tag": "43009039",
+    "start": 7482,
+    "end": 7503
+  },
+  {
+    "location": "John 9:40",
+    "tag": "43009040",
+    "start": 7504,
+    "end": 7520
+  },
+  {
+    "location": "John 9:41",
+    "tag": "43009041",
+    "start": 7521,
+    "end": 7540
+  },
+  {
+    "location": "John 10:1",
+    "tag": "43010001",
+    "start": 7541,
+    "end": 7563
+  },
+  {
+    "location": "John 10:2",
+    "tag": "43010002",
+    "start": 7564,
+    "end": 7573
+  },
+  {
+    "location": "John 10:3",
+    "tag": "43010003",
+    "start": 7574,
+    "end": 7594
+  },
+  {
+    "location": "John 10:4",
+    "tag": "43010004",
+    "start": 7595,
+    "end": 7612
+  },
+  {
+    "location": "John 10:5",
+    "tag": "43010005",
+    "start": 7613,
+    "end": 7628
+  },
+  {
+    "location": "John 10:6",
+    "tag": "43010006",
+    "start": 7629,
+    "end": 7644
+  },
+  {
+    "location": "John 10:7",
+    "tag": "43010007",
+    "start": 7645,
+    "end": 7660
+  },
+  {
+    "location": "John 10:8",
+    "tag": "43010008",
+    "start": 7661,
+    "end": 7675
+  },
+  {
+    "location": "John 10:9",
+    "tag": "43010009",
+    "start": 7676,
+    "end": 7692
+  },
+  {
+    "location": "John 10:10",
+    "tag": "43010010",
+    "start": 7693,
+    "end": 7712
+  },
+  {
+    "location": "John 10:11",
+    "tag": "43010011",
+    "start": 7713,
+    "end": 7729
+  },
+  {
+    "location": "John 10:12",
+    "tag": "43010012",
+    "start": 7730,
+    "end": 7758
+  },
+  {
+    "location": "John 10:13",
+    "tag": "43010013",
+    "start": 7759,
+    "end": 7768
+  },
+  {
+    "location": "John 10:14",
+    "tag": "43010014",
+    "start": 7769,
+    "end": 7783
+  },
+  {
+    "location": "John 10:15",
+    "tag": "43010015",
+    "start": 7784,
+    "end": 7800
+  },
+  {
+    "location": "John 10:16",
+    "tag": "43010016",
+    "start": 7801,
+    "end": 7826
+  },
+  {
+    "location": "John 10:17",
+    "tag": "43010017",
+    "start": 7827,
+    "end": 7842
+  },
+  {
+    "location": "John 10:18",
+    "tag": "43010018",
+    "start": 7843,
+    "end": 7871
+  },
+  {
+    "location": "John 10:19",
+    "tag": "43010019",
+    "start": 7872,
+    "end": 7881
+  },
+  {
+    "location": "John 10:20",
+    "tag": "43010020",
+    "start": 7882,
+    "end": 7893
+  },
+  {
+    "location": "John 10:21",
+    "tag": "43010021",
+    "start": 7894,
+    "end": 7907
+  },
+  {
+    "location": "John 10:22",
+    "tag": "43010022",
+    "start": 7908,
+    "end": 7916
+  },
+  {
+    "location": "John 10:23",
+    "tag": "43010023",
+    "start": 7917,
+    "end": 7928
+  },
+  {
+    "location": "John 10:24",
+    "tag": "43010024",
+    "start": 7929,
+    "end": 7950
+  },
+  {
+    "location": "John 10:25",
+    "tag": "43010025",
+    "start": 7951,
+    "end": 7974
+  },
+  {
+    "location": "John 10:26",
+    "tag": "43010026",
+    "start": 7975,
+    "end": 7986
+  },
+  {
+    "location": "John 10:27",
+    "tag": "43010027",
+    "start": 7987,
+    "end": 8000
+  },
+  {
+    "location": "John 10:28",
+    "tag": "43010028",
+    "start": 8001,
+    "end": 8021
+  },
+  {
+    "location": "John 10:29",
+    "tag": "43010029",
+    "start": 8022,
+    "end": 8039
+  },
+  {
+    "location": "John 10:30",
+    "tag": "43010030",
+    "start": 8040,
+    "end": 8045
+  },
+  {
+    "location": "John 10:31",
+    "tag": "43010031",
+    "start": 8046,
+    "end": 8053
+  },
+  {
+    "location": "John 10:32",
+    "tag": "43010032",
+    "start": 8054,
+    "end": 8071
+  },
+  {
+    "location": "John 10:33",
+    "tag": "43010033",
+    "start": 8072,
+    "end": 8092
+  },
+  {
+    "location": "John 10:34",
+    "tag": "43010034",
+    "start": 8093,
+    "end": 8108
+  },
+  {
+    "location": "John 10:35",
+    "tag": "43010035",
+    "start": 8109,
+    "end": 8125
+  },
+  {
+    "location": "John 10:36",
+    "tag": "43010036",
+    "start": 8126,
+    "end": 8144
+  },
+  {
+    "location": "John 10:37",
+    "tag": "43010037",
+    "start": 8145,
+    "end": 8155
+  },
+  {
+    "location": "John 10:38",
+    "tag": "43010038",
+    "start": 8156,
+    "end": 8178
+  },
+  {
+    "location": "John 10:39",
+    "tag": "43010039",
+    "start": 8179,
+    "end": 8189
+  },
+  {
+    "location": "John 10:40",
+    "tag": "43010040",
+    "start": 8190,
+    "end": 8207
+  },
+  {
+    "location": "John 10:41",
+    "tag": "43010041",
+    "start": 8208,
+    "end": 8229
+  },
+  {
+    "location": "John 10:42",
+    "tag": "43010042",
+    "start": 8230,
+    "end": 8235
+  },
+  {
+    "location": "John 11:1",
+    "tag": "43011001",
+    "start": 8236,
+    "end": 8251
+  },
+  {
+    "location": "John 11:2",
+    "tag": "43011002",
+    "start": 8252,
+    "end": 8272
+  },
+  {
+    "location": "John 11:3",
+    "tag": "43011003",
+    "start": 8273,
+    "end": 8284
+  },
+  {
+    "location": "John 11:4",
+    "tag": "43011004",
+    "start": 8285,
+    "end": 8310
+  },
+  {
+    "location": "John 11:5",
+    "tag": "43011005",
+    "start": 8311,
+    "end": 8323
+  },
+  {
+    "location": "John 11:6",
+    "tag": "43011006",
+    "start": 8324,
+    "end": 8337
+  },
+  {
+    "location": "John 11:7",
+    "tag": "43011007",
+    "start": 8338,
+    "end": 8348
+  },
+  {
+    "location": "John 11:8",
+    "tag": "43011008",
+    "start": 8349,
+    "end": 8363
+  },
+  {
+    "location": "John 11:9",
+    "tag": "43011009",
+    "start": 8364,
+    "end": 8386
+  },
+  {
+    "location": "John 11:10",
+    "tag": "43011010",
+    "start": 8387,
+    "end": 8401
+  },
+  {
+    "location": "John 11:11",
+    "tag": "43011011",
+    "start": 8402,
+    "end": 8418
+  },
+  {
+    "location": "John 11:12",
+    "tag": "43011012",
+    "start": 8419,
+    "end": 8427
+  },
+  {
+    "location": "John 11:13",
+    "tag": "43011013",
+    "start": 8428,
+    "end": 8445
+  },
+  {
+    "location": "John 11:14",
+    "tag": "43011014",
+    "start": 8446,
+    "end": 8454
+  },
+  {
+    "location": "John 11:15",
+    "tag": "43011015",
+    "start": 8455,
+    "end": 8468
+  },
+  {
+    "location": "John 11:16",
+    "tag": "43011016",
+    "start": 8469,
+    "end": 8483
+  },
+  {
+    "location": "John 11:17",
+    "tag": "43011017",
+    "start": 8484,
+    "end": 8496
+  },
+  {
+    "location": "John 11:18",
+    "tag": "43011018",
+    "start": 8497,
+    "end": 8506
+  },
+  {
+    "location": "John 11:19",
+    "tag": "43011019",
+    "start": 8507,
+    "end": 8523
+  },
+  {
+    "location": "John 11:20",
+    "tag": "43011020",
+    "start": 8524,
+    "end": 8539
+  },
+  {
+    "location": "John 11:21",
+    "tag": "43011021",
+    "start": 8540,
+    "end": 8555
+  },
+  {
+    "location": "John 11:22",
+    "tag": "43011022",
+    "start": 8556,
+    "end": 8568
+  },
+  {
+    "location": "John 11:23",
+    "tag": "43011023",
+    "start": 8569,
+    "end": 8576
+  },
+  {
+    "location": "John 11:24",
+    "tag": "43011024",
+    "start": 8577,
+    "end": 8590
+  },
+  {
+    "location": "John 11:25",
+    "tag": "43011025",
+    "start": 8591,
+    "end": 8608
+  },
+  {
+    "location": "John 11:26",
+    "tag": "43011026",
+    "start": 8609,
+    "end": 8624
+  },
+  {
+    "location": "John 11:27",
+    "tag": "43011027",
+    "start": 8625,
+    "end": 8644
+  },
+  {
+    "location": "John 11:28",
+    "tag": "43011028",
+    "start": 8645,
+    "end": 8662
+  },
+  {
+    "location": "John 11:29",
+    "tag": "43011029",
+    "start": 8663,
+    "end": 8672
+  },
+  {
+    "location": "John 11:30",
+    "tag": "43011030",
+    "start": 8673,
+    "end": 8691
+  },
+  {
+    "location": "John 11:31",
+    "tag": "43011031",
+    "start": 8692,
+    "end": 8723
+  },
+  {
+    "location": "John 11:32",
+    "tag": "43011032",
+    "start": 8724,
+    "end": 8750
+  },
+  {
+    "location": "John 11:33",
+    "tag": "43011033",
+    "start": 8751,
+    "end": 8768
+  },
+  {
+    "location": "John 11:34",
+    "tag": "43011034",
+    "start": 8769,
+    "end": 8779
+  },
+  {
+    "location": "John 11:35",
+    "tag": "43011035",
+    "start": 8780,
+    "end": 8782
+  },
+  {
+    "location": "John 11:36",
+    "tag": "43011036",
+    "start": 8783,
+    "end": 8790
+  },
+  {
+    "location": "John 11:37",
+    "tag": "43011037",
+    "start": 8791,
+    "end": 8810
+  },
+  {
+    "location": "John 11:38",
+    "tag": "43011038",
+    "start": 8811,
+    "end": 8828
+  },
+  {
+    "location": "John 11:39",
+    "tag": "43011039",
+    "start": 8829,
+    "end": 8847
+  },
+  {
+    "location": "John 11:40",
+    "tag": "43011040",
+    "start": 8848,
+    "end": 8862
+  },
+  {
+    "location": "John 11:41",
+    "tag": "43011041",
+    "start": 8863,
+    "end": 8881
+  },
+  {
+    "location": "John 11:42",
+    "tag": "43011042",
+    "start": 8882,
+    "end": 8901
+  },
+  {
+    "location": "John 11:43",
+    "tag": "43011043",
+    "start": 8902,
+    "end": 8910
+  },
+  {
+    "location": "John 11:44",
+    "tag": "43011044",
+    "start": 8911,
+    "end": 8936
+  },
+  {
+    "location": "John 11:45",
+    "tag": "43011045",
+    "start": 8937,
+    "end": 8953
+  },
+  {
+    "location": "John 11:46",
+    "tag": "43011046",
+    "start": 8954,
+    "end": 8967
+  },
+  {
+    "location": "John 11:47",
+    "tag": "43011047",
+    "start": 8968,
+    "end": 8986
+  },
+  {
+    "location": "John 11:48",
+    "tag": "43011048",
+    "start": 8987,
+    "end": 9007
+  },
+  {
+    "location": "John 11:49",
+    "tag": "43011049",
+    "start": 9008,
+    "end": 9024
+  },
+  {
+    "location": "John 11:50",
+    "tag": "43011050",
+    "start": 9025,
+    "end": 9042
+  },
+  {
+    "location": "John 11:51",
+    "tag": "43011051",
+    "start": 9043,
+    "end": 9062
+  },
+  {
+    "location": "John 11:52",
+    "tag": "43011052",
+    "start": 9063,
+    "end": 9080
+  },
+  {
+    "location": "John 11:53",
+    "tag": "43011053",
+    "start": 9081,
+    "end": 9089
+  },
+  {
+    "location": "John 11:54",
+    "tag": "43011054",
+    "start": 9090,
+    "end": 9116
+  },
+  {
+    "location": "John 11:55",
+    "tag": "43011055",
+    "start": 9117,
+    "end": 9137
+  },
+  {
+    "location": "John 11:56",
+    "tag": "43011056",
+    "start": 9138,
+    "end": 9159
+  },
+  {
+    "location": "John 11:57",
+    "tag": "43011057",
+    "start": 9160,
+    "end": 9177
+  },
+  {
+    "location": "John 12:1",
+    "tag": "43012001",
+    "start": 9178,
+    "end": 9196
+  },
+  {
+    "location": "John 12:2",
+    "tag": "43012002",
+    "start": 9197,
+    "end": 9215
+  },
+  {
+    "location": "John 12:3",
+    "tag": "43012003",
+    "start": 9216,
+    "end": 9246
+  },
+  {
+    "location": "John 12:4",
+    "tag": "43012004",
+    "start": 9247,
+    "end": 9259
+  },
+  {
+    "location": "John 12:5",
+    "tag": "43012005",
+    "start": 9260,
+    "end": 9271
+  },
+  {
+    "location": "John 12:6",
+    "tag": "43012006",
+    "start": 9272,
+    "end": 9292
+  },
+  {
+    "location": "John 12:7",
+    "tag": "43012007",
+    "start": 9293,
+    "end": 9307
+  },
+  {
+    "location": "John 12:8",
+    "tag": "43012008",
+    "start": 9308,
+    "end": 9319
+  },
+  {
+    "location": "John 12:9",
+    "tag": "43012009",
+    "start": 9320,
+    "end": 9347
+  },
+  {
+    "location": "John 12:10",
+    "tag": "43012010",
+    "start": 9348,
+    "end": 9356
+  },
+  {
+    "location": "John 12:11",
+    "tag": "43012011",
+    "start": 9357,
+    "end": 9368
+  },
+  {
+    "location": "John 12:12",
+    "tag": "43012012",
+    "start": 9369,
+    "end": 9384
+  },
+  {
+    "location": "John 12:13",
+    "tag": "43012013",
+    "start": 9385,
+    "end": 9408
+  },
+  {
+    "location": "John 12:14",
+    "tag": "43012014",
+    "start": 9409,
+    "end": 9419
+  },
+  {
+    "location": "John 12:15",
+    "tag": "43012015",
+    "start": 9420,
+    "end": 9432
+  },
+  {
+    "location": "John 12:16",
+    "tag": "43012016",
+    "start": 9433,
+    "end": 9456
+  },
+  {
+    "location": "John 12:17",
+    "tag": "43012017",
+    "start": 9457,
+    "end": 9476
+  },
+  {
+    "location": "John 12:18",
+    "tag": "43012018",
+    "start": 9477,
+    "end": 9490
+  },
+  {
+    "location": "John 12:19",
+    "tag": "43012019",
+    "start": 9491,
+    "end": 9507
+  },
+  {
+    "location": "John 12:20",
+    "tag": "43012020",
+    "start": 9508,
+    "end": 9519
+  },
+  {
+    "location": "John 12:21",
+    "tag": "43012021",
+    "start": 9520,
+    "end": 9537
+  },
+  {
+    "location": "John 12:22",
+    "tag": "43012022",
+    "start": 9538,
+    "end": 9552
+  },
+  {
+    "location": "John 12:23",
+    "tag": "43012023",
+    "start": 9553,
+    "end": 9567
+  },
+  {
+    "location": "John 12:24",
+    "tag": "43012024",
+    "start": 9568,
+    "end": 9591
+  },
+  {
+    "location": "John 12:25",
+    "tag": "43012025",
+    "start": 9592,
+    "end": 9613
+  },
+  {
+    "location": "John 12:26",
+    "tag": "43012026",
+    "start": 9614,
+    "end": 9638
+  },
+  {
+    "location": "John 12:27",
+    "tag": "43012027",
+    "start": 9639,
+    "end": 9661
+  },
+  {
+    "location": "John 12:28",
+    "tag": "43012028",
+    "start": 9662,
+    "end": 9677
+  },
+  {
+    "location": "John 12:29",
+    "tag": "43012029",
+    "start": 9678,
+    "end": 9692
+  },
+  {
+    "location": "John 12:30",
+    "tag": "43012030",
+    "start": 9693,
+    "end": 9706
+  },
+  {
+    "location": "John 12:31",
+    "tag": "43012031",
+    "start": 9707,
+    "end": 9720
+  },
+  {
+    "location": "John 12:32",
+    "tag": "43012032",
+    "start": 9721,
+    "end": 9730
+  },
+  {
+    "location": "John 12:33",
+    "tag": "43012033",
+    "start": 9731,
+    "end": 9738
+  },
+  {
+    "location": "John 12:34",
+    "tag": "43012034",
+    "start": 9739,
+    "end": 9773
+  },
+  {
+    "location": "John 12:35",
+    "tag": "43012035",
+    "start": 9774,
+    "end": 9806
+  },
+  {
+    "location": "John 12:36",
+    "tag": "43012036",
+    "start": 9807,
+    "end": 9826
+  },
+  {
+    "location": "John 12:37",
+    "tag": "43012037",
+    "start": 9827,
+    "end": 9837
+  },
+  {
+    "location": "John 12:38",
+    "tag": "43012038",
+    "start": 9838,
+    "end": 9858
+  },
+  {
+    "location": "John 12:39",
+    "tag": "43012039",
+    "start": 9859,
+    "end": 9867
+  },
+  {
+    "location": "John 12:40",
+    "tag": "43012040",
+    "start": 9868,
+    "end": 9890
+  },
+  {
+    "location": "John 12:41",
+    "tag": "43012041",
+    "start": 9891,
+    "end": 9902
+  },
+  {
+    "location": "John 12:42",
+    "tag": "43012042",
+    "start": 9903,
+    "end": 9922
+  },
+  {
+    "location": "John 12:43",
+    "tag": "43012043",
+    "start": 9923,
+    "end": 9934
+  },
+  {
+    "location": "John 12:44",
+    "tag": "43012044",
+    "start": 9935,
+    "end": 9952
+  },
+  {
+    "location": "John 12:45",
+    "tag": "43012045",
+    "start": 9953,
+    "end": 9960
+  },
+  {
+    "location": "John 12:46",
+    "tag": "43012046",
+    "start": 9961,
+    "end": 9977
+  },
+  {
+    "location": "John 12:47",
+    "tag": "43012047",
+    "start": 9978,
+    "end": 10003
+  },
+  {
+    "location": "John 12:48",
+    "tag": "43012048",
+    "start": 10004,
+    "end": 10027
+  },
+  {
+    "location": "John 12:49",
+    "tag": "43012049",
+    "start": 10028,
+    "end": 10047
+  },
+  {
+    "location": "John 12:50",
+    "tag": "43012050",
+    "start": 10048,
+    "end": 10067
+  },
+  {
+    "location": "John 13:1",
+    "tag": "43013001",
+    "start": 10068,
+    "end": 10101
+  },
+  {
+    "location": "John 13:2",
+    "tag": "43013002",
+    "start": 10102,
+    "end": 10117
+  },
+  {
+    "location": "John 13:3",
+    "tag": "43013003",
+    "start": 10118,
+    "end": 10137
+  },
+  {
+    "location": "John 13:4",
+    "tag": "43013004",
+    "start": 10138,
+    "end": 10150
+  },
+  {
+    "location": "John 13:5",
+    "tag": "43013005",
+    "start": 10151,
+    "end": 10170
+  },
+  {
+    "location": "John 13:6",
+    "tag": "43013006",
+    "start": 10171,
+    "end": 10183
+  },
+  {
+    "location": "John 13:7",
+    "tag": "43013007",
+    "start": 10184,
+    "end": 10199
+  },
+  {
+    "location": "John 13:8",
+    "tag": "43013008",
+    "start": 10200,
+    "end": 10223
+  },
+  {
+    "location": "John 13:9",
+    "tag": "43013009",
+    "start": 10224,
+    "end": 10240
+  },
+  {
+    "location": "John 13:10",
+    "tag": "43013010",
+    "start": 10241,
+    "end": 10264
+  },
+  {
+    "location": "John 13:11",
+    "tag": "43013011",
+    "start": 10265,
+    "end": 10277
+  },
+  {
+    "location": "John 13:12",
+    "tag": "43013012",
+    "start": 10278,
+    "end": 10297
+  },
+  {
+    "location": "John 13:13",
+    "tag": "43013013",
+    "start": 10298,
+    "end": 10310
+  },
+  {
+    "location": "John 13:14",
+    "tag": "43013014",
+    "start": 10311,
+    "end": 10329
+  },
+  {
+    "location": "John 13:15",
+    "tag": "43013015",
+    "start": 10330,
+    "end": 10341
+  },
+  {
+    "location": "John 13:16",
+    "tag": "43013016",
+    "start": 10342,
+    "end": 10358
+  },
+  {
+    "location": "John 13:17",
+    "tag": "43013017",
+    "start": 10359,
+    "end": 10366
+  },
+  {
+    "location": "John 13:18",
+    "tag": "43013018",
+    "start": 10367,
+    "end": 10391
+  },
+  {
+    "location": "John 13:19",
+    "tag": "43013019",
+    "start": 10392,
+    "end": 10405
+  },
+  {
+    "location": "John 13:20",
+    "tag": "43013020",
+    "start": 10406,
+    "end": 10424
+  },
+  {
+    "location": "John 13:21",
+    "tag": "43013021",
+    "start": 10425,
+    "end": 10444
+  },
+  {
+    "location": "John 13:22",
+    "tag": "43013022",
+    "start": 10445,
+    "end": 10453
+  },
+  {
+    "location": "John 13:23",
+    "tag": "43013023",
+    "start": 10454,
+    "end": 10469
+  },
+  {
+    "location": "John 13:24",
+    "tag": "43013024",
+    "start": 10470,
+    "end": 10483
+  },
+  {
+    "location": "John 13:25",
+    "tag": "43013025",
+    "start": 10484,
+    "end": 10496
+  },
+  {
+    "location": "John 13:26",
+    "tag": "43013026",
+    "start": 10497,
+    "end": 10520
+  },
+  {
+    "location": "John 13:27",
+    "tag": "43013027",
+    "start": 10521,
+    "end": 10538
+  },
+  {
+    "location": "John 13:28",
+    "tag": "43013028",
+    "start": 10539,
+    "end": 10548
+  },
+  {
+    "location": "John 13:29",
+    "tag": "43013029",
+    "start": 10549,
+    "end": 10573
+  },
+  {
+    "location": "John 13:30",
+    "tag": "43013030",
+    "start": 10574,
+    "end": 10583
+  },
+  {
+    "location": "John 13:31",
+    "tag": "43013031",
+    "start": 10584,
+    "end": 10600
+  },
+  {
+    "location": "John 13:32",
+    "tag": "43013032",
+    "start": 10601,
+    "end": 10617
+  },
+  {
+    "location": "John 13:33",
+    "tag": "43013033",
+    "start": 10618,
+    "end": 10642
+  },
+  {
+    "location": "John 13:34",
+    "tag": "43013034",
+    "start": 10643,
+    "end": 10657
+  },
+  {
+    "location": "John 13:35",
+    "tag": "43013035",
+    "start": 10658,
+    "end": 10670
+  },
+  {
+    "location": "John 13:36",
+    "tag": "43013036",
+    "start": 10671,
+    "end": 10689
+  },
+  {
+    "location": "John 13:37",
+    "tag": "43013037",
+    "start": 10690,
+    "end": 10706
+  },
+  {
+    "location": "John 13:38",
+    "tag": "43013038",
+    "start": 10707,
+    "end": 10727
+  },
+  {
+    "location": "John 14:1",
+    "tag": "43014001",
+    "start": 10728,
+    "end": 10740
+  },
+  {
+    "location": "John 14:2",
+    "tag": "43014002",
+    "start": 10741,
+    "end": 10760
+  },
+  {
+    "location": "John 14:3",
+    "tag": "43014003",
+    "start": 10761,
+    "end": 10781
+  },
+  {
+    "location": "John 14:4",
+    "tag": "43014004",
+    "start": 10782,
+    "end": 10788
+  },
+  {
+    "location": "John 14:5",
+    "tag": "43014005",
+    "start": 10789,
+    "end": 10800
+  },
+  {
+    "location": "John 14:6",
+    "tag": "43014006",
+    "start": 10801,
+    "end": 10822
+  },
+  {
+    "location": "John 14:7",
+    "tag": "43014007",
+    "start": 10823,
+    "end": 10837
+  },
+  {
+    "location": "John 14:8",
+    "tag": "43014008",
+    "start": 10838,
+    "end": 10848
+  },
+  {
+    "location": "John 14:9",
+    "tag": "43014009",
+    "start": 10849,
+    "end": 10875
+  },
+  {
+    "location": "John 14:10",
+    "tag": "43014010",
+    "start": 10876,
+    "end": 10908
+  },
+  {
+    "location": "John 14:11",
+    "tag": "43014011",
+    "start": 10909,
+    "end": 10928
+  },
+  {
+    "location": "John 14:12",
+    "tag": "43014012",
+    "start": 10929,
+    "end": 10953
+  },
+  {
+    "location": "John 14:13",
+    "tag": "43014013",
+    "start": 10954,
+    "end": 10971
+  },
+  {
+    "location": "John 14:14",
+    "tag": "43014014",
+    "start": 10972,
+    "end": 10981
+  },
+  {
+    "location": "John 14:15",
+    "tag": "43014015",
+    "start": 10982,
+    "end": 10989
+  },
+  {
+    "location": "John 14:16",
+    "tag": "43014016",
+    "start": 10990,
+    "end": 11005
+  },
+  {
+    "location": "John 14:17",
+    "tag": "43014017",
+    "start": 11006,
+    "end": 11032
+  },
+  {
+    "location": "John 14:18",
+    "tag": "43014018",
+    "start": 11033,
+    "end": 11039
+  },
+  {
+    "location": "John 14:19",
+    "tag": "43014019",
+    "start": 11040,
+    "end": 11057
+  },
+  {
+    "location": "John 14:20",
+    "tag": "43014020",
+    "start": 11058,
+    "end": 11076
+  },
+  {
+    "location": "John 14:21",
+    "tag": "43014021",
+    "start": 11077,
+    "end": 11105
+  },
+  {
+    "location": "John 14:22",
+    "tag": "43014022",
+    "start": 11106,
+    "end": 11124
+  },
+  {
+    "location": "John 14:23",
+    "tag": "43014023",
+    "start": 11125,
+    "end": 11152
+  },
+  {
+    "location": "John 14:24",
+    "tag": "43014024",
+    "start": 11153,
+    "end": 11174
+  },
+  {
+    "location": "John 14:25",
+    "tag": "43014025",
+    "start": 11175,
+    "end": 11180
+  },
+  {
+    "location": "John 14:26",
+    "tag": "43014026",
+    "start": 11181,
+    "end": 11207
+  },
+  {
+    "location": "John 14:27",
+    "tag": "43014027",
+    "start": 11208,
+    "end": 11230
+  },
+  {
+    "location": "John 14:28",
+    "tag": "43014028",
+    "start": 11231,
+    "end": 11256
+  },
+  {
+    "location": "John 14:29",
+    "tag": "43014029",
+    "start": 11257,
+    "end": 11266
+  },
+  {
+    "location": "John 14:30",
+    "tag": "43014030",
+    "start": 11267,
+    "end": 11283
+  },
+  {
+    "location": "John 14:31",
+    "tag": "43014031",
+    "start": 11284,
+    "end": 11303
+  },
+  {
+    "location": "John 15:1",
+    "tag": "43015001",
+    "start": 11304,
+    "end": 11316
+  },
+  {
+    "location": "John 15:2",
+    "tag": "43015002",
+    "start": 11317,
+    "end": 11336
+  },
+  {
+    "location": "John 15:3",
+    "tag": "43015003",
+    "start": 11337,
+    "end": 11346
+  },
+  {
+    "location": "John 15:4",
+    "tag": "43015004",
+    "start": 11347,
+    "end": 11375
+  },
+  {
+    "location": "John 15:5",
+    "tag": "43015005",
+    "start": 11376,
+    "end": 11400
+  },
+  {
+    "location": "John 15:6",
+    "tag": "43015006",
+    "start": 11401,
+    "end": 11423
+  },
+  {
+    "location": "John 15:7",
+    "tag": "43015007",
+    "start": 11424,
+    "end": 11441
+  },
+  {
+    "location": "John 15:8",
+    "tag": "43015008",
+    "start": 11442,
+    "end": 11455
+  },
+  {
+    "location": "John 15:9",
+    "tag": "43015009",
+    "start": 11456,
+    "end": 11469
+  },
+  {
+    "location": "John 15:10",
+    "tag": "43015010",
+    "start": 11470,
+    "end": 11493
+  },
+  {
+    "location": "John 15:11",
+    "tag": "43015011",
+    "start": 11494,
+    "end": 11509
+  },
+  {
+    "location": "John 15:12",
+    "tag": "43015012",
+    "start": 11510,
+    "end": 11521
+  },
+  {
+    "location": "John 15:13",
+    "tag": "43015013",
+    "start": 11522,
+    "end": 11536
+  },
+  {
+    "location": "John 15:14",
+    "tag": "43015014",
+    "start": 11537,
+    "end": 11546
+  },
+  {
+    "location": "John 15:15",
+    "tag": "43015015",
+    "start": 11547,
+    "end": 11574
+  },
+  {
+    "location": "John 15:16",
+    "tag": "43015016",
+    "start": 11575,
+    "end": 11609
+  },
+  {
+    "location": "John 15:17",
+    "tag": "43015017",
+    "start": 11610,
+    "end": 11615
+  },
+  {
+    "location": "John 15:18",
+    "tag": "43015018",
+    "start": 11616,
+    "end": 11626
+  },
+  {
+    "location": "John 15:19",
+    "tag": "43015019",
+    "start": 11627,
+    "end": 11657
+  },
+  {
+    "location": "John 15:20",
+    "tag": "43015020",
+    "start": 11658,
+    "end": 11686
+  },
+  {
+    "location": "John 15:21",
+    "tag": "43015021",
+    "start": 11687,
+    "end": 11702
+  },
+  {
+    "location": "John 15:22",
+    "tag": "43015022",
+    "start": 11703,
+    "end": 11720
+  },
+  {
+    "location": "John 15:23",
+    "tag": "43015023",
+    "start": 11721,
+    "end": 11728
+  },
+  {
+    "location": "John 15:24",
+    "tag": "43015024",
+    "start": 11729,
+    "end": 11754
+  },
+  {
+    "location": "John 15:25",
+    "tag": "43015025",
+    "start": 11755,
+    "end": 11769
+  },
+  {
+    "location": "John 15:26",
+    "tag": "43015026",
+    "start": 11770,
+    "end": 11793
+  },
+  {
+    "location": "John 15:27",
+    "tag": "43015027",
+    "start": 11794,
+    "end": 11803
+  },
+  {
+    "location": "John 16:1",
+    "tag": "43016001",
+    "start": 11804,
+    "end": 11809
+  },
+  {
+    "location": "John 16:2",
+    "tag": "43016002",
+    "start": 11810,
+    "end": 11825
+  },
+  {
+    "location": "John 16:3",
+    "tag": "43016003",
+    "start": 11826,
+    "end": 11835
+  },
+  {
+    "location": "John 16:4",
+    "tag": "43016004",
+    "start": 11836,
+    "end": 11862
+  },
+  {
+    "location": "John 16:5",
+    "tag": "43016005",
+    "start": 11863,
+    "end": 11877
+  },
+  {
+    "location": "John 16:6",
+    "tag": "43016006",
+    "start": 11878,
+    "end": 11888
+  },
+  {
+    "location": "John 16:7",
+    "tag": "43016007",
+    "start": 11889,
+    "end": 11917
+  },
+  {
+    "location": "John 16:8",
+    "tag": "43016008",
+    "start": 11918,
+    "end": 11931
+  },
+  {
+    "location": "John 16:9",
+    "tag": "43016009",
+    "start": 11932,
+    "end": 11939
+  },
+  {
+    "location": "John 16:10",
+    "tag": "43016010",
+    "start": 11940,
+    "end": 11951
+  },
+  {
+    "location": "John 16:11",
+    "tag": "43016011",
+    "start": 11952,
+    "end": 11961
+  },
+  {
+    "location": "John 16:12",
+    "tag": "43016012",
+    "start": 11962,
+    "end": 11971
+  },
+  {
+    "location": "John 16:13",
+    "tag": "43016013",
+    "start": 11972,
+    "end": 11999
+  },
+  {
+    "location": "John 16:14",
+    "tag": "43016014",
+    "start": 12000,
+    "end": 12010
+  },
+  {
+    "location": "John 16:15",
+    "tag": "43016015",
+    "start": 12011,
+    "end": 12028
+  },
+  {
+    "location": "John 16:16",
+    "tag": "43016016",
+    "start": 12029,
+    "end": 12039
+  },
+  {
+    "location": "John 16:17",
+    "tag": "43016017",
+    "start": 12040,
+    "end": 12070
+  },
+  {
+    "location": "John 16:18",
+    "tag": "43016018",
+    "start": 12071,
+    "end": 12083
+  },
+  {
+    "location": "John 16:19",
+    "tag": "43016019",
+    "start": 12084,
+    "end": 12110
+  },
+  {
+    "location": "John 16:20",
+    "tag": "43016020",
+    "start": 12111,
+    "end": 12132
+  },
+  {
+    "location": "John 16:21",
+    "tag": "43016021",
+    "start": 12133,
+    "end": 12161
+  },
+  {
+    "location": "John 16:22",
+    "tag": "43016022",
+    "start": 12162,
+    "end": 12185
+  },
+  {
+    "location": "John 16:23",
+    "tag": "43016023",
+    "start": 12186,
+    "end": 12209
+  },
+  {
+    "location": "John 16:24",
+    "tag": "43016024",
+    "start": 12210,
+    "end": 12227
+  },
+  {
+    "location": "John 16:25",
+    "tag": "43016025",
+    "start": 12228,
+    "end": 12247
+  },
+  {
+    "location": "John 16:26",
+    "tag": "43016026",
+    "start": 12248,
+    "end": 12267
+  },
+  {
+    "location": "John 16:27",
+    "tag": "43016027",
+    "start": 12268,
+    "end": 12285
+  },
+  {
+    "location": "John 16:28",
+    "tag": "43016028",
+    "start": 12286,
+    "end": 12303
+  },
+  {
+    "location": "John 16:29",
+    "tag": "43016029",
+    "start": 12304,
+    "end": 12316
+  },
+  {
+    "location": "John 16:30",
+    "tag": "43016030",
+    "start": 12317,
+    "end": 12336
+  },
+  {
+    "location": "John 16:31",
+    "tag": "43016031",
+    "start": 12337,
+    "end": 12341
+  },
+  {
+    "location": "John 16:32",
+    "tag": "43016032",
+    "start": 12342,
+    "end": 12365
+  },
+  {
+    "location": "John 16:33",
+    "tag": "43016033",
+    "start": 12366,
+    "end": 12384
+  },
+  {
+    "location": "John 17:1",
+    "tag": "43017001",
+    "start": 12385,
+    "end": 12409
+  },
+  {
+    "location": "John 17:2",
+    "tag": "43017002",
+    "start": 12410,
+    "end": 12424
+  },
+  {
+    "location": "John 17:3",
+    "tag": "43017003",
+    "start": 12425,
+    "end": 12442
+  },
+  {
+    "location": "John 17:4",
+    "tag": "43017004",
+    "start": 12443,
+    "end": 12456
+  },
+  {
+    "location": "John 17:5",
+    "tag": "43017005",
+    "start": 12457,
+    "end": 12475
+  },
+  {
+    "location": "John 17:6",
+    "tag": "43017006",
+    "start": 12476,
+    "end": 12497
+  },
+  {
+    "location": "John 17:7",
+    "tag": "43017007",
+    "start": 12498,
+    "end": 12507
+  },
+  {
+    "location": "John 17:8",
+    "tag": "43017008",
+    "start": 12508,
+    "end": 12531
+  },
+  {
+    "location": "John 17:9",
+    "tag": "43017009",
+    "start": 12532,
+    "end": 12548
+  },
+  {
+    "location": "John 17:10",
+    "tag": "43017010",
+    "start": 12549,
+    "end": 12562
+  },
+  {
+    "location": "John 17:11",
+    "tag": "43017011",
+    "start": 12563,
+    "end": 12594
+  },
+  {
+    "location": "John 17:12",
+    "tag": "43017012",
+    "start": 12595,
+    "end": 12625
+  },
+  {
+    "location": "John 17:13",
+    "tag": "43017013",
+    "start": 12626,
+    "end": 12645
+  },
+  {
+    "location": "John 17:14",
+    "tag": "43017014",
+    "start": 12646,
+    "end": 12669
+  },
+  {
+    "location": "John 17:15",
+    "tag": "43017015",
+    "start": 12670,
+    "end": 12684
+  },
+  {
+    "location": "John 17:16",
+    "tag": "43017016",
+    "start": 12685,
+    "end": 12696
+  },
+  {
+    "location": "John 17:17",
+    "tag": "43017017",
+    "start": 12697,
+    "end": 12707
+  },
+  {
+    "location": "John 17:18",
+    "tag": "43017018",
+    "start": 12708,
+    "end": 12719
+  },
+  {
+    "location": "John 17:19",
+    "tag": "43017019",
+    "start": 12720,
+    "end": 12732
+  },
+  {
+    "location": "John 17:20",
+    "tag": "43017020",
+    "start": 12733,
+    "end": 12749
+  },
+  {
+    "location": "John 17:21",
+    "tag": "43017021",
+    "start": 12750,
+    "end": 12775
+  },
+  {
+    "location": "John 17:22",
+    "tag": "43017022",
+    "start": 12776,
+    "end": 12789
+  },
+  {
+    "location": "John 17:23",
+    "tag": "43017023",
+    "start": 12790,
+    "end": 12815
+  },
+  {
+    "location": "John 17:24",
+    "tag": "43017024",
+    "start": 12816,
+    "end": 12843
+  },
+  {
+    "location": "John 17:25",
+    "tag": "43017025",
+    "start": 12844,
+    "end": 12862
+  },
+  {
+    "location": "John 17:26",
+    "tag": "43017026",
+    "start": 12863,
+    "end": 12882
+  },
+  {
+    "location": "John 18:1",
+    "tag": "43018001",
+    "start": 12883,
+    "end": 12906
+  },
+  {
+    "location": "John 18:2",
+    "tag": "43018002",
+    "start": 12907,
+    "end": 12924
+  },
+  {
+    "location": "John 18:3",
+    "tag": "43018003",
+    "start": 12925,
+    "end": 12947
+  },
+  {
+    "location": "John 18:4",
+    "tag": "43018004",
+    "start": 12948,
+    "end": 12961
+  },
+  {
+    "location": "John 18:5",
+    "tag": "43018005",
+    "start": 12962,
+    "end": 12979
+  },
+  {
+    "location": "John 18:6",
+    "tag": "43018006",
+    "start": 12980,
+    "end": 12992
+  },
+  {
+    "location": "John 18:7",
+    "tag": "43018007",
+    "start": 12993,
+    "end": 13004
+  },
+  {
+    "location": "John 18:8",
+    "tag": "43018008",
+    "start": 13005,
+    "end": 13018
+  },
+  {
+    "location": "John 18:9",
+    "tag": "43018009",
+    "start": 13019,
+    "end": 13033
+  },
+  {
+    "location": "John 18:10",
+    "tag": "43018010",
+    "start": 13034,
+    "end": 13059
+  },
+  {
+    "location": "John 18:11",
+    "tag": "43018011",
+    "start": 13060,
+    "end": 13082
+  },
+  {
+    "location": "John 18:12",
+    "tag": "43018012",
+    "start": 13083,
+    "end": 13099
+  },
+  {
+    "location": "John 18:13",
+    "tag": "43018013",
+    "start": 13100,
+    "end": 13115
+  },
+  {
+    "location": "John 18:14",
+    "tag": "43018014",
+    "start": 13116,
+    "end": 13130
+  },
+  {
+    "location": "John 18:15",
+    "tag": "43018015",
+    "start": 13131,
+    "end": 13156
+  },
+  {
+    "location": "John 18:16",
+    "tag": "43018016",
+    "start": 13157,
+    "end": 13182
+  },
+  {
+    "location": "John 18:17",
+    "tag": "43018017",
+    "start": 13183,
+    "end": 13204
+  },
+  {
+    "location": "John 18:18",
+    "tag": "43018018",
+    "start": 13205,
+    "end": 13228
+  },
+  {
+    "location": "John 18:19",
+    "tag": "43018019",
+    "start": 13229,
+    "end": 13243
+  },
+  {
+    "location": "John 18:20",
+    "tag": "43018020",
+    "start": 13244,
+    "end": 13270
+  },
+  {
+    "location": "John 18:21",
+    "tag": "43018021",
+    "start": 13271,
+    "end": 13285
+  },
+  {
+    "location": "John 18:22",
+    "tag": "43018022",
+    "start": 13286,
+    "end": 13302
+  },
+  {
+    "location": "John 18:23",
+    "tag": "43018023",
+    "start": 13303,
+    "end": 13318
+  },
+  {
+    "location": "John 18:24",
+    "tag": "43018024",
+    "start": 13319,
+    "end": 13328
+  },
+  {
+    "location": "John 18:25",
+    "tag": "43018025",
+    "start": 13329,
+    "end": 13352
+  },
+  {
+    "location": "John 18:26",
+    "tag": "43018026",
+    "start": 13353,
+    "end": 13375
+  },
+  {
+    "location": "John 18:27",
+    "tag": "43018027",
+    "start": 13376,
+    "end": 13383
+  },
+  {
+    "location": "John 18:28",
+    "tag": "43018028",
+    "start": 13384,
+    "end": 13410
+  },
+  {
+    "location": "John 18:29",
+    "tag": "43018029",
+    "start": 13411,
+    "end": 13425
+  },
+  {
+    "location": "John 18:30",
+    "tag": "43018030",
+    "start": 13426,
+    "end": 13440
+  },
+  {
+    "location": "John 18:31",
+    "tag": "43018031",
+    "start": 13441,
+    "end": 13464
+  },
+  {
+    "location": "John 18:32",
+    "tag": "43018032",
+    "start": 13465,
+    "end": 13477
+  },
+  {
+    "location": "John 18:33",
+    "tag": "43018033",
+    "start": 13478,
+    "end": 13498
+  },
+  {
+    "location": "John 18:34",
+    "tag": "43018034",
+    "start": 13499,
+    "end": 13511
+  },
+  {
+    "location": "John 18:35",
+    "tag": "43018035",
+    "start": 13512,
+    "end": 13530
+  },
+  {
+    "location": "John 18:36",
+    "tag": "43018036",
+    "start": 13531,
+    "end": 13572
+  },
+  {
+    "location": "John 18:37",
+    "tag": "43018037",
+    "start": 13573,
+    "end": 13614
+  },
+  {
+    "location": "John 18:38",
+    "tag": "43018038",
+    "start": 13615,
+    "end": 13638
+  },
+  {
+    "location": "John 18:39",
+    "tag": "43018039",
+    "start": 13639,
+    "end": 13657
+  },
+  {
+    "location": "John 18:40",
+    "tag": "43018040",
+    "start": 13658,
+    "end": 13671
+  },
+  {
+    "location": "John 19:1",
+    "tag": "43019001",
+    "start": 13672,
+    "end": 13680
+  },
+  {
+    "location": "John 19:2",
+    "tag": "43019002",
+    "start": 13681,
+    "end": 13696
+  },
+  {
+    "location": "John 19:3",
+    "tag": "43019003",
+    "start": 13697,
+    "end": 13711
+  },
+  {
+    "location": "John 19:4",
+    "tag": "43019004",
+    "start": 13712,
+    "end": 13733
+  },
+  {
+    "location": "John 19:5",
+    "tag": "43019005",
+    "start": 13734,
+    "end": 13752
+  },
+  {
+    "location": "John 19:6",
+    "tag": "43019006",
+    "start": 13753,
+    "end": 13781
+  },
+  {
+    "location": "John 19:7",
+    "tag": "43019007",
+    "start": 13782,
+    "end": 13799
+  },
+  {
+    "location": "John 19:8",
+    "tag": "43019008",
+    "start": 13800,
+    "end": 13809
+  },
+  {
+    "location": "John 19:9",
+    "tag": "43019009",
+    "start": 13810,
+    "end": 13829
+  },
+  {
+    "location": "John 19:10",
+    "tag": "43019010",
+    "start": 13830,
+    "end": 13849
+  },
+  {
+    "location": "John 19:11",
+    "tag": "43019011",
+    "start": 13850,
+    "end": 13872
+  },
+  {
+    "location": "John 19:12",
+    "tag": "43019012",
+    "start": 13873,
+    "end": 13900
+  },
+  {
+    "location": "John 19:13",
+    "tag": "43019013",
+    "start": 13901,
+    "end": 13922
+  },
+  {
+    "location": "John 19:14",
+    "tag": "43019014",
+    "start": 13923,
+    "end": 13939
+  },
+  {
+    "location": "John 19:15",
+    "tag": "43019015",
+    "start": 13940,
+    "end": 13963
+  },
+  {
+    "location": "John 19:16",
+    "tag": "43019016",
+    "start": 13964,
+    "end": 13974
+  },
+  {
+    "location": "John 19:17",
+    "tag": "43019017",
+    "start": 13975,
+    "end": 13989
+  },
+  {
+    "location": "John 19:18",
+    "tag": "43019018",
+    "start": 13990,
+    "end": 14004
+  },
+  {
+    "location": "John 19:19",
+    "tag": "43019019",
+    "start": 14005,
+    "end": 14025
+  },
+  {
+    "location": "John 19:20",
+    "tag": "43019020",
+    "start": 14026,
+    "end": 14050
+  },
+  {
+    "location": "John 19:21",
+    "tag": "43019021",
+    "start": 14051,
+    "end": 14072
+  },
+  {
+    "location": "John 19:22",
+    "tag": "43019022",
+    "start": 14073,
+    "end": 14078
+  },
+  {
+    "location": "John 19:23",
+    "tag": "43019023",
+    "start": 14079,
+    "end": 14110
+  },
+  {
+    "location": "John 19:24",
+    "tag": "43019024",
+    "start": 14111,
+    "end": 14145
+  },
+  {
+    "location": "John 19:25",
+    "tag": "43019025",
+    "start": 14146,
+    "end": 14169
+  },
+  {
+    "location": "John 19:26",
+    "tag": "43019026",
+    "start": 14170,
+    "end": 14188
+  },
+  {
+    "location": "John 19:27",
+    "tag": "43019027",
+    "start": 14189,
+    "end": 14208
+  },
+  {
+    "location": "John 19:28",
+    "tag": "43019028",
+    "start": 14209,
+    "end": 14223
+  },
+  {
+    "location": "John 19:29",
+    "tag": "43019029",
+    "start": 14224,
+    "end": 14238
+  },
+  {
+    "location": "John 19:30",
+    "tag": "43019030",
+    "start": 14239,
+    "end": 14254
+  },
+  {
+    "location": "John 19:31",
+    "tag": "43019031",
+    "start": 14255,
+    "end": 14289
+  },
+  {
+    "location": "John 19:32",
+    "tag": "43019032",
+    "start": 14290,
+    "end": 14306
+  },
+  {
+    "location": "John 19:33",
+    "tag": "43019033",
+    "start": 14307,
+    "end": 14321
+  },
+  {
+    "location": "John 19:34",
+    "tag": "43019034",
+    "start": 14322,
+    "end": 14336
+  },
+  {
+    "location": "John 19:35",
+    "tag": "43019035",
+    "start": 14337,
+    "end": 14356
+  },
+  {
+    "location": "John 19:36",
+    "tag": "43019036",
+    "start": 14357,
+    "end": 14367
+  },
+  {
+    "location": "John 19:37",
+    "tag": "43019037",
+    "start": 14368,
+    "end": 14376
+  },
+  {
+    "location": "John 19:38",
+    "tag": "43019038",
+    "start": 14377,
+    "end": 14413
+  },
+  {
+    "location": "John 19:39",
+    "tag": "43019039",
+    "start": 14414,
+    "end": 14432
+  },
+  {
+    "location": "John 19:40",
+    "tag": "43019040",
+    "start": 14433,
+    "end": 14451
+  },
+  {
+    "location": "John 19:41",
+    "tag": "43019041",
+    "start": 14452,
+    "end": 14471
+  },
+  {
+    "location": "John 19:42",
+    "tag": "43019042",
+    "start": 14472,
+    "end": 14486
+  },
+  {
+    "location": "John 20:1",
+    "tag": "43020001",
+    "start": 14487,
+    "end": 14510
+  },
+  {
+    "location": "John 20:2",
+    "tag": "43020002",
+    "start": 14511,
+    "end": 14541
+  },
+  {
+    "location": "John 20:3",
+    "tag": "43020003",
+    "start": 14542,
+    "end": 14554
+  },
+  {
+    "location": "John 20:4",
+    "tag": "43020004",
+    "start": 14555,
+    "end": 14573
+  },
+  {
+    "location": "John 20:5",
+    "tag": "43020005",
+    "start": 14574,
+    "end": 14582
+  },
+  {
+    "location": "John 20:6",
+    "tag": "43020006",
+    "start": 14583,
+    "end": 14599
+  },
+  {
+    "location": "John 20:7",
+    "tag": "43020007",
+    "start": 14600,
+    "end": 14619
+  },
+  {
+    "location": "John 20:8",
+    "tag": "43020008",
+    "start": 14620,
+    "end": 14636
+  },
+  {
+    "location": "John 20:9",
+    "tag": "43020009",
+    "start": 14637,
+    "end": 14647
+  },
+  {
+    "location": "John 20:10",
+    "tag": "43020010",
+    "start": 14648,
+    "end": 14654
+  },
+  {
+    "location": "John 20:11",
+    "tag": "43020011",
+    "start": 14655,
+    "end": 14669
+  },
+  {
+    "location": "John 20:12",
+    "tag": "43020012",
+    "start": 14670,
+    "end": 14691
+  },
+  {
+    "location": "John 20:13",
+    "tag": "43020013",
+    "start": 14692,
+    "end": 14711
+  },
+  {
+    "location": "John 20:14",
+    "tag": "43020014",
+    "start": 14712,
+    "end": 14728
+  },
+  {
+    "location": "John 20:15",
+    "tag": "43020015",
+    "start": 14729,
+    "end": 14757
+  },
+  {
+    "location": "John 20:16",
+    "tag": "43020016",
+    "start": 14758,
+    "end": 14770
+  },
+  {
+    "location": "John 20:17",
+    "tag": "43020017",
+    "start": 14771,
+    "end": 14805
+  },
+  {
+    "location": "John 20:18",
+    "tag": "43020018",
+    "start": 14806,
+    "end": 14820
+  },
+  {
+    "location": "John 20:19",
+    "tag": "43020019",
+    "start": 14821,
+    "end": 14855
+  },
+  {
+    "location": "John 20:20",
+    "tag": "43020020",
+    "start": 14856,
+    "end": 14873
+  },
+  {
+    "location": "John 20:21",
+    "tag": "43020021",
+    "start": 14874,
+    "end": 14889
+  },
+  {
+    "location": "John 20:22",
+    "tag": "43020022",
+    "start": 14890,
+    "end": 14899
+  },
+  {
+    "location": "John 20:23",
+    "tag": "43020023",
+    "start": 14900,
+    "end": 14910
+  },
+  {
+    "location": "John 20:24",
+    "tag": "43020024",
+    "start": 14911,
+    "end": 14926
+  },
+  {
+    "location": "John 20:25",
+    "tag": "43020025",
+    "start": 14927,
+    "end": 14972
+  },
+  {
+    "location": "John 20:26",
+    "tag": "43020026",
+    "start": 14973,
+    "end": 15001
+  },
+  {
+    "location": "John 20:27",
+    "tag": "43020027",
+    "start": 15002,
+    "end": 15032
+  },
+  {
+    "location": "John 20:28",
+    "tag": "43020028",
+    "start": 15033,
+    "end": 15044
+  },
+  {
+    "location": "John 20:29",
+    "tag": "43020029",
+    "start": 15045,
+    "end": 15058
+  },
+  {
+    "location": "John 20:30",
+    "tag": "43020030",
+    "start": 15059,
+    "end": 15078
+  },
+  {
+    "location": "John 20:31",
+    "tag": "43020031",
+    "start": 15079,
+    "end": 15101
+  },
+  {
+    "location": "John 21:1",
+    "tag": "43021001",
+    "start": 15102,
+    "end": 15117
+  },
+  {
+    "location": "John 21:2",
+    "tag": "43021002",
+    "start": 15118,
+    "end": 15144
+  },
+  {
+    "location": "John 21:3",
+    "tag": "43021003",
+    "start": 15145,
+    "end": 15170
+  },
+  {
+    "location": "John 21:4",
+    "tag": "43021004",
+    "start": 15171,
+    "end": 15187
+  },
+  {
+    "location": "John 21:5",
+    "tag": "43021005",
+    "start": 15188,
+    "end": 15199
+  },
+  {
+    "location": "John 21:6",
+    "tag": "43021006",
+    "start": 15200,
+    "end": 15226
+  },
+  {
+    "location": "John 21:7",
+    "tag": "43021007",
+    "start": 15227,
+    "end": 15260
+  },
+  {
+    "location": "John 21:8",
+    "tag": "43021008",
+    "start": 15261,
+    "end": 15284
+  },
+  {
+    "location": "John 21:9",
+    "tag": "43021009",
+    "start": 15285,
+    "end": 15298
+  },
+  {
+    "location": "John 21:10",
+    "tag": "43021010",
+    "start": 15299,
+    "end": 15309
+  },
+  {
+    "location": "John 21:11",
+    "tag": "43021011",
+    "start": 15310,
+    "end": 15332
+  },
+  {
+    "location": "John 21:12",
+    "tag": "43021012",
+    "start": 15333,
+    "end": 15352
+  },
+  {
+    "location": "John 21:13",
+    "tag": "43021013",
+    "start": 15353,
+    "end": 15365
+  },
+  {
+    "location": "John 21:14",
+    "tag": "43021014",
+    "start": 15366,
+    "end": 15375
+  },
+  {
+    "location": "John 21:15",
+    "tag": "43021015",
+    "start": 15376,
+    "end": 15405
+  },
+  {
+    "location": "John 21:16",
+    "tag": "43021016",
+    "start": 15406,
+    "end": 15428
+  },
+  {
+    "location": "John 21:17",
+    "tag": "43021017",
+    "start": 15429,
+    "end": 15465
+  },
+  {
+    "location": "John 21:18",
+    "tag": "43021018",
+    "start": 15466,
+    "end": 15494
+  },
+  {
+    "location": "John 21:19",
+    "tag": "43021019",
+    "start": 15495,
+    "end": 15510
+  },
+  {
+    "location": "John 21:20",
+    "tag": "43021020",
+    "start": 15511,
+    "end": 15539
+  },
+  {
+    "location": "John 21:21",
+    "tag": "43021021",
+    "start": 15540,
+    "end": 15551
+  },
+  {
+    "location": "John 21:22",
+    "tag": "43021022",
+    "start": 15552,
+    "end": 15567
+  },
+  {
+    "location": "John 21:23",
+    "tag": "43021023",
+    "start": 15568,
+    "end": 15600
+  },
+  {
+    "location": "John 21:24",
+    "tag": "43021024",
+    "start": 15601,
+    "end": 15620
+  },
+  {
+    "location": "John 21:25",
+    "tag": "43021025",
+    "start": 15621,
+    "end": 15643
+  }
+]
