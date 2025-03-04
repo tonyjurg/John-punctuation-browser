@@ -32,4 +32,4 @@ The main analysis is done in the following jupyter notebook:
 
 ## Results
 
-The resulting table is downloadable and the file is found [here](John_versions.html).
+The resulting table is downloadable and the file is called [John_versions.html](https://tonyjurg.github.io/John-punctuation-browser/John_versions.html).
