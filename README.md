@@ -32,8 +32,12 @@ The main analysis is done in the following jupyter notebook:
 
 ## Results
 
+<<<<<<< HEAD
 The resulting table is downloadable and the file is found [here](John_versions.html).
 
 Partial screenshot:
 
 <img src="images/example.png">
+=======
+The resulting table is downloadable and the file is called [John_versions.html](https://tonyjurg.github.io/John-punctuation-browser/John_versions.html).
+>>>>>>> f93f90afe578c3e96c7a59fd12550b8d36d281c7
