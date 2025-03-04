@@ -33,3 +33,7 @@ The main analysis is done in the following jupyter notebook:
 ## Results
 
 The resulting table is downloadable and the file is found [here](John_versions.html).
+
+Partial screenshot:
+
+<img src="images/example.png">
