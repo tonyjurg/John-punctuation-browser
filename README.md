@@ -40,9 +40,9 @@ Partial screenshot:
 
 **Explanation:**
 
-- For each verse, the base text (N1904) is always displayed in black.
-- Punctuation marks present in the column version (e.g., KJTR) but absent in N1904 are highlighted with a green background.
-- Punctuation marks found in N1904 but missing from the column version are indicated by a red placeholder space.
+- The table consists of five columns: the leftmost displays the N1904 base text in black. The remaining four columns also show the N1904 base text in black, but with punctuation inserted based on the respective column version (e.g., KJTR of SBL). 
+- Punctuation marks present in the column version but absent in N1904 are highlighted with a green background in the black text.
+- Punctuation marks found in N1904 but missing from the column version are indicated by a red placeholder space in the black text.
 - If the base text of the column version differs from N1904 *other than for punctuation*, it appears in gray beneath the N1904 line.
 - Words in the column version that differ only slightly from their N1904 counterparts are highlighted in yellow within the gray text.
 - Words present in N1904 but missing in the column version are shown in red, struck through in the gray text.
