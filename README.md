@@ -47,3 +47,7 @@ Partial screenshot:
 - Words in the column version that differ only slightly from their N1904 counterparts are highlighted in yellow within the gray text.
 - Words present in N1904 but missing in the column version are shown in red, struck through in the gray text.
 - Words present in the column version but absent in N1904 are shown in blue within the gray text.
+
+# License
+
+[MIT license](LICENSE).
