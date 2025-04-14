@@ -1,3 +1,6 @@
+[![Project Status: Concept – Minimal or no implementation has been done yet, or the repository is only intended to be a limited example, demo, or proof-of-concept.](https://www.repostatus.org/badges/latest/concept.svg)](https://www.repostatus.org/#concept) [License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 # Textual source comparision
 
 This repository contains a collection of Jupyter notebooks used to generate an overview of *possible* alternative punctuations in the Greek text of the Gospel of John, based on the [Nestle 1904, seventh edition (1913 reprint)](https://sites.google.com/site/nestle1904/home). These alternative punctuations were identified by analyzing punctuation marks in parallel Greek source texts. Because these sources may also contain textual variations beyond punctuation, a tunable matching algorithm was applied to align the texts accurately. For implementation details, see the notebook [sourcecomparing.ipynb](sourcecomparing.ipynb).
