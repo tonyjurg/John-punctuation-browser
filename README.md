@@ -52,6 +52,10 @@ Partial screenshot:
 - Words present in N1904 but missing in the column version are shown in red, struck through in the gray text.
 - Words present in the column version but absent in N1904 are shown in blue within the gray text.
 
+## Impact of significant base text differences 
+
+A brief discussion on the impact of base text differences between N1904 and Tischendorf's text [can be found here](differences_N1904_and_TISCH.md).
+
 # License
 
 [MIT license](LICENSE).
