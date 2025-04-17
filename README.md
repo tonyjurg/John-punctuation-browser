@@ -36,11 +36,11 @@ The main analysis is done in the following jupyter notebook:
 
 ## Results
 
-The resulting table is downloadable and the file is called [John_versions.html](https://tonyjurg.github.io/John-punctuation-browser/John_versions.html).
+The resulting table is downloadable and the file is called [John_versions.html](https://tonyjurg.github.io/John-punctuation-browser/John_versions.html). Please note that the filesize is more than 4.6 Mb, so downloading may take a while. 
 
-Partial screenshot:
+Partial screenshot is shown below. Click on the image to open the file:
 
-<img src="images/example.png">
+<a href="https://tonyjurg.github.io/John-punctuation-browser/John_versions.html" target="_blank"><img src="images/example.png"></a>
 
 **Explanation:**
 
