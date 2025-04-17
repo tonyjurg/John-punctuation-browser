@@ -2,7 +2,7 @@
 
 
 
-# Textual source comparision
+# Textual source comparison
 
 This repository contains a collection of Jupyter notebooks used to generate an overview of *possible* alternative punctuations in the Greek text of the Gospel of John, based on the [Nestle 1904, seventh edition (1913 reprint)](https://sites.google.com/site/nestle1904/home). These alternative punctuations were identified by analyzing punctuation marks in parallel Greek source texts. Because these sources may also contain textual variations beyond punctuation, a tunable matching algorithm was applied to align the texts accurately. For implementation details, see the notebook [sourcecomparing.ipynb](sourcecomparing.ipynb).
 
@@ -24,8 +24,6 @@ Each of these notebooks generate  a set of files like detailed below:
 - XX-John.json : JSON data with each entry containing a verse tag and the normalized of that verse.
 
 The N1904 preparation notebook generates also a JSON file that maps verses to node numbers (words), providing a reference for subsequent analysis.
-
-
 
 ## The analysis notebooks
 
