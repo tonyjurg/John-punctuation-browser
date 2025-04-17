@@ -1,6 +1,6 @@
 # Differences between N1904 and TISCH
 
-A comparison using the punctuation browser reveals that there are substantial differences between the base text of the N1904 edition and Tischendorf’s Editio Octava Critica Maior.
+A comparison using the punctuation browser reveals that there are substantial differences for the Gospel of John between the base text of the N1904 edition and Tischendorf’s Editio Octava Critica Maior.
 
 This is easily confirmed by consulting the scanned pages of the printed edition of Tischendorf’s
 [Editio Octava Critica Maior (1877)](https://archive.org/details/Tischendorf.I.GreekNewTestament.NovumTestamentumGraece.various/07.NovumTestamentumGraece.Tischendorf.8thcritmin.1877./page/n381/mode/2up).
