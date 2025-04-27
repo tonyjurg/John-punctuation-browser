@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Jurg"
+  given-names: "Tony"
+  orcid: "https://orcid.org/0000-0002-0343-1346"
+title: "John Punctuation Browser - Alternative puntuations for the N1904 Gospel of John"
+date-released: April 2025
+url: "https://github.com/tonyjurg/John-punctuation-browser"
