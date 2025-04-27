@@ -56,4 +56,4 @@ A brief discussion on the impact of base text differences between N1904 and Tisc
 
 # License
 
-[MIT license](LICENSE).
+[MIT license](LICENSE.md).
