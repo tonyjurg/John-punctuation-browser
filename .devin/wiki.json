@@ -1,0 +1,173 @@
+{
+  "repo_notes": [
+    {
+      "content": ""
+    }
+  ],
+  "pages": [
+    {
+      "title": "Project Overview",
+      "purpose": "High-level introduction to the John Punctuation Browser: its scholarly purpose, the problem it solves, the six Greek New Testament sources it compares, and the overall pipeline from raw source texts to the final HTML browser. Links to child pages for setup and output.",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Getting Started & Repository Layout",
+      "purpose": "Explains how to set up the environment (Python, Jupyter, Text-Fabric), clone the repo, and run the full pipeline end-to-end. Describes the top-level directory structure, the role of each source subdirectory, and the key output files.",
+      "parent": "Project Overview",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "The Punctuation Browser Output",
+      "purpose": "Documents the final deliverable: John_versions.html. Covers the five-column table layout, the color-coding scheme (green/red/gray/yellow/blue), how to interpret the visual diff, and the versioning history tracked in John_versions.html.",
+      "parent": "Project Overview",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Source Text Preprocessing",
+      "purpose": "Overview of the ETL pipeline that transforms each raw Greek New Testament source into the standardized three-file format (XX-John.txt, XX-John-tagged.txt, XX-John.json). Introduces the shared normalize() function and links to per-source child pages.",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "N1904 – Nestle 1904 (Base Text)",
+      "purpose": "Deep dive into prepare_N1904.ipynb: how it extracts data from the Text-Fabric N1904-TF dataset, generates the three standard output files, and—uniquely—produces node2verse.json mapping every word node to its verse reference. Explains why N1904 is the master reference for all comparisons.",
+      "parent": "Source Text Preprocessing",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "KJTR – King James Textus Receptus",
+      "purpose": "Documents prepare_KJTR.ipynb: data provenance from CNTR (CC BY 4.0), the line-based parsing of source/KJTR-John.txt, the normalize() ETL steps, and the three output files. Covers the checkpoint notebook and verification cells.",
+      "parent": "Source Text Preprocessing",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "SBL, SR, TCGNT, and TISCH Sources",
+      "purpose": "Covers the four remaining preprocessing notebooks (prepare_SBL.ipynb, prepare_SR.ipynb, prepare_TCGNT.ipynb, prepare_TISCH.ipynb). Explains their individual data provenance, any source-specific parsing differences (e.g., TCGNT and TISCH use per-chapter source files), and their shared normalize() pattern.",
+      "parent": "Source Text Preprocessing",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Analysis Pipeline",
+      "purpose": "Overview of the two analysis notebooks that sit between preprocessing and HTML output: sourcecomparing.ipynb (punctuation comparison) and delta_in_base_text.ipynb (base-text diff). Explains how they consume the preprocessed JSON files and produce intermediate data artifacts.",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "sourcecomparing.ipynb – Punctuation Comparison Engine",
+      "purpose": "Detailed walkthrough of sourcecomparing.ipynb: how it merges all six XX-John.json files into Combined-John.json, the tunable matching algorithm that aligns texts despite lexical variants, how punctuation insertions are detected, and how the HTML diff table is generated.",
+      "parent": "Analysis Pipeline",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "delta_in_base_text.ipynb – Base-Text Difference Analysis",
+      "purpose": "Explains delta_in_base_text.ipynb: its role in identifying lexical/morphological differences between N1904 and each comparison source (beyond punctuation), the SequenceMatcher-based word-level diff, the highlight_diff() function, and the John-diff-annotated.json output.",
+      "parent": "Analysis Pipeline",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Intermediate Data Artifacts",
+      "purpose": "Reference page for all intermediate and output data files produced by the pipeline. Covers their formats, schemas, and how they connect the preprocessing and analysis stages. Links to child pages for the composite text and punctuation comparison data.",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Normalized Text Files and JSON Outputs",
+      "purpose": "Documents the three-file standard output per source (XX-John.txt, XX-John-tagged.txt, XX-John.json), the Combined-John.json merge structure, and node2verse.json. Explains the tag format (e.g., 43001001 = John 1:1) and the normalized text schema.",
+      "parent": "Intermediate Data Artifacts",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Composite Text and Per-Source Punctuation Files",
+      "purpose": "Documents composite_text.txt (the N1904 base text with inline punctuation alternatives in [/] notation), the N1904base_XXpunct.txt files (one per comparison source), and punctuation_comparison.json (word-indexed punctuation matrix across all six sources).",
+      "parent": "Intermediate Data Artifacts",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Textual Variants and Known Differences",
+      "purpose": "Scholarly discussion of significant base-text divergences between N1904 and the comparison sources, focusing on the N1904 vs. TISCH case study. Explains how the pipeline handles these divergences and what they mean for the punctuation browser output.",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "N1904 vs. TISCH Divergences",
+      "purpose": "Detailed examination of differences_N1904_and_TISCH.md: specific verses where Tischendorf's Editio Octava Critica Maior diverges from N1904 (John 1:39, John 5:4–46), how these are validated against scanned pages of the 1877 edition, and their visual representation in the browser.",
+      "parent": "Textual Variants and Known Differences",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Handling Lexical Variants in the Matching Algorithm",
+      "purpose": "Technical explanation of how the tunable matching algorithm in sourcecomparing.ipynb and delta_in_base_text.ipynb handles word insertions, deletions, and substitutions across all sources. Covers the gray-text fallback rendering strategy and the SequenceMatcher similarity threshold.",
+      "parent": "Textual Variants and Known Differences",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Glossary",
+      "purpose": "Definitions of all codebase-specific terms, abbreviations, data formats, and domain concepts that an onboarding engineer or biblical scholar would need to understand the repository. Each entry includes code pointers.",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    }
+  ]
+}
